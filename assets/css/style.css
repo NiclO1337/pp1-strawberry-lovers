@@ -1,0 +1,25 @@
+/* General styles */
+
+body {
+    min-height: 100vh;   
+}
+
+/* Header styles */
+
+header {
+    background-color: red;
+}
+
+
+/* Main styles */
+
+main {
+    background-color: aliceblue;
+}
+
+
+/* Footer styles */
+
+footer {
+    background-color: rgb(54, 33, 0);
+}
