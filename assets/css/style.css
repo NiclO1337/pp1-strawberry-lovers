@@ -1,3 +1,12 @@
+/* Asterisk wildcard selector, override default styles */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
 /* General styles */
 
 body {
@@ -12,7 +21,8 @@ body {
 header {
     background-color: red;
     width: 100%;
-    color: aqua;
+    color: rgb(217, 250, 250);
+    height: 18em;
 }
 
 
@@ -28,4 +38,5 @@ main {
 
 footer {
     background-color: rgb(54, 33, 0);
+    color: #fff;
 }
