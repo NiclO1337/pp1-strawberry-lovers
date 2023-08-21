@@ -78,13 +78,9 @@ https://www.pexels.com/photo/strawberry-on-blue-surface-566888/
 
 
 
-
-- Fontawesome icons
-
-
 ### Code
 
-- The website was loosely modeled on and inspired by the Love Running Walkthough project and some of the code from the walkthrough project was used and adapted.
+- Some of the code from the Love Running walkthrough project was used and adapted.
 
 - Took inspiration from Ulrike Riemenschneider's README file, she is very ambitious and thorough. <br>
 https://github.com/URiem/art-school/blob/main/README.md
