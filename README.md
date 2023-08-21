@@ -8,6 +8,10 @@ TODO add: Image of how it looks on different screens
 
 ## Features
 
+Initial wireframes sketch with 2 basic sketch designs.
+![Wireframes](assets/images/Wireframes.png)
+
+
 TODO add: list with features
 
 - The welcome image
@@ -30,6 +34,24 @@ TODO add: list with features
 
 None
 
+## Technologies used
+
+### Languages
+- HTML
+- CSS
+
+### Frameworks & Tools
+
+- Git
+- GitHub
+- Balsamiq
+- Google Fonts
+- Font Awesome
+- Favicon.io
+- VS Code
+
+
+
 ## Validator Testing
 
 - HTML
@@ -47,9 +69,23 @@ None
 
 ### Media
 
-Created favicons from this image:<br>
+- Created favicons from this image:<br>
 Photo by Toni Cuenca: 
 https://www.pexels.com/photo/strawberry-on-blue-surface-566888/
 
-Welcome image: <br>
+- Welcome image: <br>
+
+
+
+
+
+- Fontawesome icons
+
+
+### Code
+
+- The website was loosely modeled on and inspired by the Love Running Walkthough project and some of the code from the walkthrough project was used and adapted.
+
+- Took inspiration from Ulrike Riemenschneider's README file, she is very ambitious and thorough. <br>
+https://github.com/URiem/art-school/blob/main/README.md
 
