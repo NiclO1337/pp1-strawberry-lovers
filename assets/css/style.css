@@ -1,20 +1,26 @@
 /* General styles */
 
 body {
-    min-height: 100vh;   
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
+
 
 /* Header styles */
 
 header {
     background-color: red;
+    width: 100%;
+    color: aqua;
 }
 
 
 /* Main styles */
 
 main {
-    background-color: aliceblue;
+    background-color: rgb(54, 145, 224);
+    flex: 1 0 auto;
 }
 
 
