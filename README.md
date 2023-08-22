@@ -50,6 +50,7 @@ None
 - Favicon.io
 - VS Code
 - Mycolor.space
+- Compressnow
 
 
 ## Validator Testing
@@ -73,7 +74,8 @@ None
 Photo by Toni Cuenca: 
 https://www.pexels.com/photo/strawberry-on-blue-surface-566888/
 
-- Welcome image: <br>
+- Welcome image from Kindel Media: <br>
+ https://www.pexels.com/sv-se/foto/bondgard-frukt-vaxter-jordgubbar-7457179/ */
 
 
 
