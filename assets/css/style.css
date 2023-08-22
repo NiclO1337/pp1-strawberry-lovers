@@ -8,6 +8,16 @@
     box-sizing: border-box;
 }
 
+/* Saved colorscheme:
+Dark red	#420200
+
+Medium dark	#890400
+
+Strawberry red 	#E60800
+
+Light red	#FFB7B7
+
+Very light red	#FFCDCD */
 
 /* General styles */
 
@@ -23,26 +33,26 @@ h1 {
     text-transform: uppercase;
     font-weight: 800;
     font-style: italic;
+    color:#890400;
 }
 
 
 /* Header styles */
 
 #welcome-image {
-    background-color: red;
-    color: rgb(217, 250, 250);
+    background-color:#E60800;
+    color: #6B0400;
     height: 20rem;
     text-align: center;
 }
 
 header {    
     width: 100%;
-    background-color: #fff;
+    background-color: #FFCDCD;
     padding: 0 0.5rem;
     position: sticky;
     z-index: 10;
-    box-shadow: 0 0.2rem 0.2rem #3a3a3a;
-    /* --------------- TODO change colour after deciding colour scheme */ 
+    box-shadow: 0 0.2rem 0.2rem #420200;    
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -111,9 +121,11 @@ nav {
 
 /* Main styles */
 
+/* Gradient background created from 
+https://mycolor.space/gradient?ori=to+right+top&hex=%23E60800&hex2=%23FFB7B7&sub=1 */
+
 main {
-    background-color: rgb(54, 145, 224);
-    /* to push footer down to bottom */
+    background-image: linear-gradient(to bottom, #ffb7b7, #ff9d9a, #ff837c, #fc675c, #f5493b, #e2372b, #ce221c, #bb000b, #9b000e, #7c000d, #5e0109, #420200);
     flex: 1 0 auto;
 }
 
@@ -121,7 +133,7 @@ main {
 /* Footer styles */
 
 footer {
-    background-color: rgb(26, 11, 1);
+    background-color: #420200;
     color: #fff;
     height: 4rem;
 }
