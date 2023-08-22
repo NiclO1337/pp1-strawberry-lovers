@@ -38,7 +38,7 @@ h1 {
 header {    
     width: 100%;
     background-color: #fff;
-    padding: 0 1rem;
+    padding: 0 0.5rem;
     position: sticky;
     z-index: 10;
     box-shadow: 0 0.2rem 0.2rem #3a3a3a;
@@ -52,17 +52,23 @@ header a {
     text-decoration: none;
 }
 
+.header-flex-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
 #logo-image {
-    height: 2rem;
-    width: 2rem;
-    background: pink url(../images/logo-image.png) 
+    height: 3rem;
+    width: 3rem;
+    background: url(../images/logo-image.png) 
     no-repeat center center / cover;
 }
 
 #logo-text {
     line-height: 2rem;
-    font-size: 180%;
-    padding: 0.5rem 0;
+    font-size: 200%;
+    padding: 0.5rem;
 }
 
 #menu {
@@ -98,7 +104,9 @@ nav {
 }
 
 .nav-toggle-label {
-    font-size: 4rem;
+    font-size: 2rem;
+    justify-content: flex-end;
+    letter-spacing: normal;
 }
 
 /* Main styles */
