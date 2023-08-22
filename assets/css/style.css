@@ -55,6 +55,8 @@ header a {
 #logo-image {
     height: 2rem;
     width: 2rem;
+    background: pink url(../images/logo-image.png) 
+    no-repeat center center / cover;
 }
 
 #logo-text {
