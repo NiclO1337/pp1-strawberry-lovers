@@ -17,7 +17,7 @@ Strawberry red 	#E60800
 
 Light red	#FFB7B7
 
-Very light red	#FFCDCD */
+Very light red	#ffeaea */
 
 /* General styles */
 
@@ -41,15 +41,15 @@ h1 {
 /* Header image from Kindel Media:
 https://www.pexels.com/sv-se/foto/bondgard-frukt-vaxter-jordgubbar-7457179/ */
 #welcome-image {
-    background: #FFCDCD url('../images/welcome-image.webp') no-repeat center center / cover;
+    background: #ffeaea url('../images/welcome-image.webp') no-repeat 35% 40% / auto 150%;
     color: #6B0400;
-    height: 20rem;
+    height: 15rem;
     text-align: center;
 }
 
 header {    
     width: 100%;
-    background-color: #FFCDCD;
+    background-color: #ffeaea;
     padding: 0 0.5rem;
     position: sticky;
     z-index: 10;
