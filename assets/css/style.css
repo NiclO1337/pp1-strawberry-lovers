@@ -38,9 +38,10 @@ h1 {
 
 
 /* Header styles */
-
+/* Header image from Kindel Media:
+https://www.pexels.com/sv-se/foto/bondgard-frukt-vaxter-jordgubbar-7457179/ */
 #welcome-image {
-    background-color:#E60800;
+    background: #FFCDCD url('../images/welcome-image.webp') no-repeat center center / cover;
     color: #6B0400;
     height: 20rem;
     text-align: center;

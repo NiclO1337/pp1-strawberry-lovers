@@ -51,6 +51,8 @@ None
 - VS Code
 - Mycolor.space
 - Compressnow
+- Zamzar 
+- www.w3schools.com
 
 
 ## Validator Testing
