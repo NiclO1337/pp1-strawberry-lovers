@@ -168,6 +168,30 @@ footer {
     height: 4rem;
 }
 
+/* Media query: 450px and up  */
+
+@media screen and (min-width: 450px) {
+
+    /* Header */
+
+    #welcome-text {
+        right: 20%;
+        font-size: 100%;
+    }
+
+    .hidden-text {
+        display: block;
+    }
+
+    #logo-image {
+        display: none;
+    }
+
+    #logo-text {
+        padding: 0.5rem 0.3rem;
+    }
+}
+
 
 /* Media query: 768px and up (Tablets) */
 
@@ -185,20 +209,6 @@ footer {
         font-size: 150%;
         font-weight: 300;
     }
-
-    .hidden-text {
-        display: block;
-    }
-
-    #logo-image {
-        display: none;
-    }
-
-    #logo-text {
-        padding: 0.5rem 0.3rem;
-    }
-    
-
 }
 
 
@@ -214,8 +224,7 @@ footer {
 
     #welcome-text {
         right: 25%;
-        font-size: 180%;
-        
+        font-size: 180%;        
     }
 
     nav {
