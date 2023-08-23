@@ -46,12 +46,8 @@ i {
 https://www.pexels.com/sv-se/foto/bondgard-frukt-vaxter-jordgubbar-7457179/ */
 
 #welcome-image {
-    /* background: #ffeaea url('../images/welcome-image.webp') 
-    no-repeat right -10rem top -2.5rem / auto 150%; */
     background: #ffeaea url('../images/welcome-image.webp') 
-    no-repeat top center / cover;
-    /* background: #ffeaea url('../images/welcome-image.webp') 
-    no-repeat left top / cover; */
+    no-repeat top -1rem center / cover;
     height: 15rem;
     position: relative;
 }
@@ -178,6 +174,12 @@ footer {
 @media screen and (min-width: 768px) {
 
     /* Header */
+
+    #welcome-image {
+        background-position: top -2.5rem center;
+        height: 18rem;
+    }
+
     .hidden-text {
         display: block;
     }
@@ -199,8 +201,13 @@ footer {
 @media screen and (min-width: 992px) {
 
     /* Header */
+    #welcome-image {
+        background-position: top -3.5rem center;
+        height: 21rem;
+    }
+
     nav {
-        display: block;
+        /* display: block; */
     }
 }
 
@@ -208,5 +215,31 @@ footer {
 /* Media query: 1200px and up (Desktop) */
 
 @media screen and (min-width: 1200px) {
+
+    /* Header */
+    #welcome-image {
+        background-position: top -4.5rem center;
+        height: 24rem;
+    }
+
+}
+
+@media screen and (min-width: 1600px) {
+
+    /* Header */
+    #welcome-image {
+        background-position: top -6rem center;
+        height: 27rem;
+    }
+
+}
+
+@media screen and (min-width: 1900px) {
+
+    /* Header */
+    #welcome-image {
+        background-position: top -7rem center;
+        height: 30rem;
+    }
 
 }
