@@ -181,6 +181,14 @@ footer {
     .hidden-text {
         display: block;
     }
+
+    #logo-image {
+        display: none;
+    }
+
+    #logo-text {
+        padding: 0.5rem 0.3rem;
+    }
     
 
 }
