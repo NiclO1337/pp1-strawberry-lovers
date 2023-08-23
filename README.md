@@ -94,3 +94,6 @@ https://github.com/kera-cudmore/readme-examples
 
 - Re-watched this video to make absolute positioning work:
 https://www.youtube.com/watch?v=jx5jmI0UlXU&t=18s
+
+- Re-watched this video to make sticky positioning work:
+https://www.youtube.com/watch?v=NzjU1GmKosQ
