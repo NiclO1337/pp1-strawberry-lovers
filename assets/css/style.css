@@ -22,7 +22,7 @@ Very light red	#ffeaea */
 /* General styles */
 
 body {
-    min-height: 100vh;
+    min-height: 200vh;
     display: flex;
     flex-direction: column;
     font-family: 'Bricolage Grotesque', sans-serif;
@@ -43,13 +43,17 @@ https://www.pexels.com/sv-se/foto/bondgard-frukt-vaxter-jordgubbar-7457179/ */
 #welcome-image {
     background: #ffeaea url('../images/welcome-image.webp') no-repeat 35% 40% / auto 150%;
     height: 15rem;
-    text-align: center;
-    display: flex;
+    /* display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
+    position: relative;
 }
 
 #welcome-text {
+    position: absolute;
+    bottom: 1.5rem;
+    right: 1.5rem;
+    text-align: center;
     height: auto;
     width: 60%;
     background-color: #ffeaeab0;
