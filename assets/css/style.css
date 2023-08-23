@@ -47,7 +47,7 @@ https://www.pexels.com/sv-se/foto/bondgard-frukt-vaxter-jordgubbar-7457179/ */
 
 #welcome-image {
     background: #ffeaea url('../images/welcome-image.webp') 
-    no-repeat top -1rem center / cover;
+    no-repeat top center / cover;
     height: 15rem;
     position: relative;
 }
