@@ -89,3 +89,8 @@ https://www.pexels.com/photo/strawberry-on-blue-surface-566888/
 - Took inspiration from Ulrike Riemenschneider's README file, she is very ambitious and thorough. <br>
 https://github.com/URiem/art-school/blob/main/README.md
 
+- Took inspiration from this very comprehensive README guide:
+https://github.com/kera-cudmore/readme-examples
+
+- Re-watched this video to make absolute positioning work:
+https://www.youtube.com/watch?v=jx5jmI0UlXU&t=18s
