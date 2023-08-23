@@ -38,8 +38,10 @@ h1 {
 
 
 /* Header styles */
+
 /* Header image from Kindel Media:
 https://www.pexels.com/sv-se/foto/bondgard-frukt-vaxter-jordgubbar-7457179/ */
+
 #welcome-image {
     /* background: #ffeaea url('../images/welcome-image.webp') 
     no-repeat right -10rem top -2.5rem / auto 150%; */
@@ -161,4 +163,25 @@ footer {
     background-color: #420200;
     color: #fff;
     height: 4rem;
+}
+
+
+/* Media query: 768px and up (Tablets) */
+
+@media screen and (min-width: 768px) {
+
+}
+
+
+/* Media query: 992px and up (Laptops) */
+
+@media screen and (min-width: 992px) {
+
+}
+
+
+/* Media query: 1200px and up (Desktop) */
+
+@media screen and (min-width: 1200px) {
+
 }
