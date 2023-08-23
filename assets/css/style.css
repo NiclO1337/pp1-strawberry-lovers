@@ -57,8 +57,6 @@ https://www.pexels.com/sv-se/foto/bondgard-frukt-vaxter-jordgubbar-7457179/ */
     bottom: 10%;
     right: 5%;
     text-align: center;
-    height: auto;
-    width: auto;
     background-color: #ffeaeace;
     border-radius: 1rem;
     color: #890400;
@@ -173,6 +171,10 @@ footer {
 @media screen and (min-width: 450px) {
 
     /* Header */
+
+    #welcome-image {
+        background-position: top -0.9rem center;        
+    }
 
     #welcome-text {
         right: 20%;
