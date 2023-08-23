@@ -102,7 +102,11 @@ header a {
 #logo-text {
     line-height: 2rem;
     font-size: 200%;
-    padding: 0.5rem;
+    padding: 0.5rem 0 0.5rem 0.5rem;
+}
+
+.hidden-text {
+    display: none;
 }
 
 #menu {
@@ -172,6 +176,12 @@ footer {
 /* Media query: 768px and up (Tablets) */
 
 @media screen and (min-width: 768px) {
+
+    /* Header */
+    .hidden-text {
+        display: block;
+    }
+
 
 }
 
