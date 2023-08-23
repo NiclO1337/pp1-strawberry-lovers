@@ -141,8 +141,8 @@ nav {
 
 .nav-toggle-label {
     font-size: 2rem;
-    justify-content: flex-end;
-    letter-spacing: normal;
+    position: absolute;
+    right: 1rem;
 }
 
 /* Main styles */
@@ -230,7 +230,15 @@ footer {
     }
 
     nav {
-        /* display: block; */
+        display: block;
+        position: relative;
+
+    }
+
+    #menu {
+        display: flex;
+        justify-content: flex-end;
+
     }
 }
 
