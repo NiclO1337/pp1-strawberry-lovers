@@ -161,7 +161,7 @@ main {
 /* Footer styles */
 
 footer {
-    background-color: #420200;
+    background-color: #ffeaea;
     color: #fff;
     height: 4rem;
 }
@@ -169,9 +169,13 @@ footer {
 .footer-flex-container {
     display: flex;
     justify-content: center;
-    color: white;
+    list-style-type: none;
+    gap: 2rem;
+    font-size: 180%;
+    height: 4rem;
     align-items: center;
 }
+
 
 
 /* Media query: 450px and up  */
