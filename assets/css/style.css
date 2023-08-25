@@ -217,7 +217,7 @@ footer {
         position: relative;
         box-shadow: none;
         width: fit-content;
-        align-self: flex-end
+        align-self: flex-end;
     }
 
     #menu {
@@ -247,10 +247,13 @@ footer {
         font-size: 180%;        
     }
 
-    #logo-text {
-        /* line-height: 110%; */
+    #logo-text {        
         font-size: 230%;
         padding: 0.5rem 0 0.5rem 0.5rem;
+    }
+
+    nav {
+        font-size: 110%;
     }
     
 }
@@ -269,6 +272,15 @@ footer {
     #welcome-text {
         font-size: 210%;
         font-weight: 200;
+    }
+
+    #logo-text {        
+        font-size: 240%;
+        padding: 0.6rem 0 0.6rem 0.6rem;
+    }
+
+    nav {
+        font-size: 120%;
     }
 }
 
@@ -296,5 +308,14 @@ footer {
 
     #welcome-text {
         font-size: 270%;
+    }
+
+    #logo-text {        
+        font-size: 260%;
+        padding: 0.6rem 0 0.6rem 0.6rem;
+    }
+
+    nav {
+        font-size: 140%;
     }
 }
