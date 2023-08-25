@@ -151,9 +151,9 @@ nav {
 https://mycolor.space/gradient?ori=to+right+top&hex=%23E60800&hex2=%23FFB7B7&sub=1 */
 
 main {
-    background-image: linear-gradient(to bottom, #ffb7b7, 
-    #ffb7b7, #ffb7b7, #ff9d9a, #ff837c, #fc675c, #f5493b, #e2372b,
-    #ce221c, #bb000b, #9b000e, #7c000d, #5e0109, #420200, #420200);
+    background-image: linear-gradient(to bottom, #ffb7b7, #ffb7b7,
+    #ffb7b7, #ffa7a7, #ff9d9a, #ff837c, #fc675c, #f5493b, #e2372b,
+    #ce221c, #bb000b, #9b000e, #7c000d, #5e0109, #420200);
     flex: 1 0 auto;
 }
 
