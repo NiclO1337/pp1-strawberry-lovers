@@ -94,9 +94,9 @@ header a {
 }
 
 #logo-text {
-    line-height: 2rem;
+    line-height: 100%;
     font-size: 200%;
-    padding: 0.5rem 0 0.5rem 0.5rem;
+    padding: 0.5rem;
 }
 
 .hidden-text {
@@ -247,6 +247,11 @@ footer {
         font-size: 180%;        
     }
 
+    #logo-text {
+        /* line-height: 110%; */
+        font-size: 230%;
+        padding: 0.5rem 0 0.5rem 0.5rem;
+    }
     
 }
 
