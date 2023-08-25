@@ -211,6 +211,24 @@ footer {
         font-size: 150%;
         font-weight: 300;
     }
+
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        align-self: flex-end
+    }
+
+    #menu {
+        display: flex;
+        justify-content: flex-end;
+        gap: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
 }
 
 
@@ -229,17 +247,7 @@ footer {
         font-size: 180%;        
     }
 
-    nav {
-        display: block;
-        position: relative;
-
-    }
-
-    #menu {
-        display: flex;
-        justify-content: flex-end;
-
-    }
+    
 }
 
 
