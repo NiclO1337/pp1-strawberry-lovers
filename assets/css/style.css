@@ -166,6 +166,12 @@ footer {
     height: 4rem;
 }
 
+.footer-flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+
 /* Media query: 450px and up  */
 
 @media screen and (min-width: 450px) {
