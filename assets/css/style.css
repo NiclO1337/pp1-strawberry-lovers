@@ -185,6 +185,23 @@ main {
     flex: 1 0 auto;
 }
 
+
+/* Gallery page */
+
+#photos img {
+    width: 100%;
+    line-height: 1rem;
+    padding: 0.3rem;
+}
+
+#photos {
+    line-height: 0;
+    margin: 0.3rem;
+}
+
+
+/* About us page */
+
 .flex-container {
     display: flex;
     flex-flow: column nowrap;
@@ -205,10 +222,11 @@ main {
 
 .signup-form {
     margin-top: 1rem;
-    background-color: #ffeaea8c;
+    background-color: #ffeaea9c;
     border-radius: 1rem;
     color: #890400;
     padding: 0.8rem 1rem;
+    margin-bottom: 2rem;
 }
 
 .flex-child h2 {
@@ -219,16 +237,19 @@ main {
     margin-top: 0.6rem;
 }
 
-#photos img {
-    width: 100%;
-    line-height: 1rem;
-    padding: 0.3rem;
+.form-button {
+    padding: 0.6rem;
+    background-color: #890400;
+    color: #ffeaea;
+    border-radius: 0.1rem;
 }
 
-#photos {
-    line-height: 0;
-    margin: 0.3rem;
+.form-button:hover {
+    background-color: #ffeaea;
+    color: #890400;
 }
+
+
 
 /* Footer styles */
 
