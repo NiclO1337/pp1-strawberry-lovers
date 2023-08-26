@@ -64,11 +64,42 @@
             <section class="flex-child signup-form">
                 <h2>Join us</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, voluptatum non. Nesciunt asperiores vero expedita architecto consequuntur ea modi, suscipit facere vel illo nostrum est excepturi dolores unde tempora rerum.</p>
-                <form action="https://formdump.codeinstitute.net/" method="POST"><br>
+                <form action="https://formdump.codeinstitute.net/" method="POST" target="_blank"><br>
                     <label for="f-name">First name:</label>
                     <input type="text" id="f-name" name="first-name" required>
                     <label for="l-name">Last name:</label>
-                    <input type="text" id="l-name" name="last-name"required>    
+                    <input type="text" id="l-name" name="last-name" required>
+                    <label for="email">Email address:</label>
+                    <input type="email" id="email" name="email-address" required>
+                    
+                    <p class="space-above">Prefered place to grow:</p>
+                    <div>                        
+                        <input type="radio" name="pref-grow" id="garden" required>
+                        <label for="garden">Garden</label>
+                    </div>
+                    <div>
+                        <input type="radio" name="pref-grow" id="greenhouse" required>
+                        <label for="greenhouse">Greenhouse</label>                        
+                    </div>
+                    <div>                        
+                        <input type="radio" name="pref-grow" id="greenhouse" required>
+                        <label for="greenhouse">Appartment</label>
+                    </div>
+                    <div class="space-above">
+                        <label for="fav-seeds">Favorite seeds:</label>
+                        <input type="text" id="fav-seeds" name="favorite-seed" list="seeds">
+                        <datalist id="seeds">
+                            <option value="1"></option>
+                            <option value="2"></option>
+                            <option value="3"></option>
+                            <option value="4"></option>
+                            <option value="5"></option>
+                            <option value="6"></option>
+                            <option value="7"></option>
+                            <option value="8"></option>
+                        </datalist>
+                    </div>
+                    <input type="submit" class="space-above">                    
                 </form>
             </section>            
     </div>
