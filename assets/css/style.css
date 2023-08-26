@@ -203,6 +203,15 @@ main {
     width: 100%;
 }
 
+.signup-form {
+    background-color: #ffeaea8c;
+    border-radius: 1rem;
+    color: #890400;
+    padding: 0.8rem 1rem;
+}
+
+
+
 
 /* Gallery page */
 
