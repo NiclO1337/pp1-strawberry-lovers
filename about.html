@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
     <!-- Meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">   
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Strayberry lovers. An online community of
     strawberry lovers who share their knowledge about growing and eating strawberries.">
     <meta name="keywords" content="strawberries, growing strawberries, strawberry community, 
     eating strawberries, strawberry recipes">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <!-- Title -->
     <title>Strawberry lovers</title>
     <!-- Favicon -->
@@ -54,60 +54,62 @@
     <!-- Main content starts here -->
     <main>
         <div class="flex-container">
-            <div class="flex-child">
+            <div class="flex-child-image">
                 <img src="assets\images\about-us.jpg" alt="Father and daughter working in a garden">
             </div>
-            <section class="flex-child section-style">
-                <h2>About us</h2>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem veniam dolorum, aliquid enim quidem facilis. Minus ab cum numquam recusandae id at debitis nam nesciunt illum, asperiores praesentium, esse officiis. </p>
-            </section>
-            <section class="flex-child section-style">
-                <h2>Join us</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, voluptatum non. Nesciunt asperiores vero expedita architecto consequuntur ea modi, suscipit facere vel illo nostrum est excepturi dolores unde tempora rerum.</p>
-                <form action="https://formdump.codeinstitute.net/" method="POST" target="_blank"><br>
-                    <label for="f-name">First name:</label><br>
-                    <input type="text" id="f-name" name="first-name" 
-                        placeholder="First name (required)" required><br>
-                    <label for="l-name">Last name:</label><br>
-                    <input type="text" id="l-name" name="last-name" 
-                        placeholder="Last name (required)" required><br>
-                    <label for="email">Email address:</label><br>
-                    <input type="email" id="email" name="email-address" 
-                        placeholder="Email address (required)"required><br>
-                    
-                    <p class="space-above">Prefered place to grow:</p>
-                    <div>                        
-                        <input type="radio" name="pref-grow" id="garden" value="Garden" class="space-above" checked required>
-                        <label for="garden">Garden</label>
-                    </div>
-                    <div>
-                        <input type="radio" name="pref-grow" id="greenhouse" value="Greenhouse" required>
-                        <label for="greenhouse">Greenhouse</label>                        
-                    </div>
-                    <div>                        
-                        <input type="radio" name="pref-grow" id="appartment" value="Appartment" required>
-                        <label for="appartment">Appartment</label>
-                    </div>
-                    <div class="space-above">
-                        <label for="fav-seeds">Favorite seeds:</label><br>
-                        <input type="text" id="fav-seeds" name="favorite-seed" 
-                        list="seeds" placeholder="Favorite seeds (optional)">
-                        <datalist id="seeds">
-                            <option value="1"></option>
-                            <option value="2"></option>
-                            <option value="3"></option>
-                            <option value="4"></option>
-                            <option value="5"></option>
-                            <option value="6"></option>
-                            <option value="7"></option>
-                            <option value="8"></option>
-                        </datalist>
-                    </div>
-                    <input type="submit" class="space-above form-button" value="Submit">      
-                    <input type="reset" class="form-button" value="Reset">              
-                </form>
-            </section>            
-    </div>
+            <div class="flex-child">
+                <section class="section-style">
+                    <h2>About us</h2>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem veniam dolorum, aliquid enim quidem facilis. Minus ab cum numquam recusandae id at debitis nam nesciunt illum, asperiores praesentium, esse officiis. </p>
+                </section>
+                <section class="section-style">
+                    <h2>Join us</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, voluptatum non. Nesciunt asperiores vero expedita architecto consequuntur ea modi, suscipit facere vel illo nostrum est excepturi dolores unde tempora rerum.</p>
+                    <form action="https://formdump.codeinstitute.net/" method="POST" target="_blank"><br>
+                        <label for="f-name">First name:</label><br>
+                        <input type="text" id="f-name" name="first-name" 
+                            placeholder="First name (required)" required><br>
+                        <label for="l-name">Last name:</label><br>
+                        <input type="text" id="l-name" name="last-name" 
+                            placeholder="Last name (required)" required><br>
+                        <label for="email">Email address:</label><br>
+                        <input type="email" id="email" name="email-address" 
+                            placeholder="Email address (required)"required><br>
+                        
+                        <p class="space-above">Prefered place to grow:</p>
+                        <div>                        
+                            <input type="radio" name="pref-grow" id="garden" value="Garden" class="space-above" checked required>
+                            <label for="garden">Garden</label>
+                        </div>
+                        <div>
+                            <input type="radio" name="pref-grow" id="greenhouse" value="Greenhouse" required>
+                            <label for="greenhouse">Greenhouse</label>                        
+                        </div>
+                        <div>                        
+                            <input type="radio" name="pref-grow" id="appartment" value="Appartment" required>
+                            <label for="appartment">Appartment</label>
+                        </div>
+                        <div class="space-above">
+                            <label for="fav-seeds">Favorite seeds:</label><br>
+                            <input type="text" id="fav-seeds" name="favorite-seed" 
+                            list="seeds" placeholder="Favorite seeds (optional)">
+                            <datalist id="seeds">
+                                <option value="1"></option>
+                                <option value="2"></option>
+                                <option value="3"></option>
+                                <option value="4"></option>
+                                <option value="5"></option>
+                                <option value="6"></option>
+                                <option value="7"></option>
+                                <option value="8"></option>
+                            </datalist>
+                        </div>
+                        <input type="submit" class="space-above form-button" value="Submit">      
+                        <input type="reset" class="form-button" value="Reset">              
+                    </form>
+                </section>
+            </div>         
+        </div>
     </main>
 
     <!-- Footer starts here -->
