@@ -220,13 +220,13 @@ main {
     width: 100%;
 }
 
-.signup-form {
+.section-style {
     margin-top: 1rem;
     background-color: #ffeaea9c;
     border-radius: 1rem;
     color: #890400;
     padding: 0.8rem 1rem;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 
 .flex-child h2 {
@@ -242,13 +242,13 @@ main {
     background-color: #890400;
     color: #ffeaea;
     border-radius: 0.1rem;
+    margin-right: 0.8rem;
 }
 
 .form-button:hover {
     background-color: #ffeaea;
     color: #890400;
 }
-
 
 
 /* Footer styles */
@@ -370,7 +370,15 @@ footer {
 
     nav {
         font-size: 110%;
-    }    
+    }
+
+    .flex-container {
+        flex-flow: row wrap;
+    }
+
+    .flex-child {
+        flex-basis: 30rem;
+    }
 }
 
 
