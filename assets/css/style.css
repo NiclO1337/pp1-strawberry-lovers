@@ -204,25 +204,29 @@ main {
 
 .flex-container {
     display: flex;
-    flex-flow: column nowrap;
+    flex-direction: column;
     width: 100%;
+    /* margin-top: 1.5rem; */
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+
+
+.flex-container img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 1.5rem;
-}
-
-.flex-child {
-    width: 80%;
-    align-self: center;
-    margin-bottom: 0.6rem;
-    color: #890400;
-}
-
-.flex-child img {
-    width: 100%;
+    max-width: 90%;
     border-radius: 1rem;
 }
 
 .section-style {
-    margin: 1rem;
+    margin-top: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 90%;
     background-color: #ffeaea9c;
     border-radius: 1rem;
     color: #890400;
