@@ -119,7 +119,7 @@ a {
 
 a:hover {
     color: #E60800;
-    background-color: #E60800;
+    text-shadow: 0 0 20px #890400;
 }
 
 .active {
