@@ -72,12 +72,23 @@ Link to live website: [PP1 Strawberry Lovers](https://niclo1337.github.io/pp1-st
 
 ### Media
 
-- Created favicons from this image:<br>
-Photo by Toni Cuenca: 
-https://www.pexels.com/photo/strawberry-on-blue-surface-566888/
+#### Favicon
+Photo by Toni Cuenca: [link to image](https://www.pexels.com/photo/strawberry-on-blue-surface-566888/)
 
-- Welcome image from Kindel Media: <br>
- https://www.pexels.com/sv-se/foto/bondgard-frukt-vaxter-jordgubbar-7457179/ */
+#### Main page
+
+ Photo by from Kindel Media: [link to image](https://www.pexels.com/sv-se/foto/bondgard-frukt-vaxter-jordgubbar-7457179/)
+
+
+#### Gallery
+Photos by Jonathan Borba: [link to image](https://www.pexels.com/sv-se/foto/flicka-bondgard-lycklig-leende-15672283/), [2nd image](https://www.pexels.com/sv-se/foto/flicka-lantbruk-bondgard-lov-15672380/), [3rd image](https://www.pexels.com/photo/woman-holding-a-freshly-picked-strawberry-15682917/), [4th image](https://www.pexels.com/photo/two-girls-holding-strawberries-on-a-farm-15672326/), [5th image](https://www.pexels.com/photo/man-picking-strawberries-15682920/)
+<br>Photo by David Boozer: [link to image](https://www.pexels.com/photo/strawberries-in-macro-shot-1125121/)
+<br>Photos by Kindel Media: [link to image](https://www.pexels.com/sv-se/foto/person-kvinna-lantbruk-bondgard-7457178/), [2nd image](https://www.pexels.com/sv-se/foto/bondgard-frukt-vaxter-jordgubbar-7457184/), [3rd image](https://www.pexels.com/sv-se/foto/bondgard-staende-leende-jordgubbe-7456823/), [4th image](https://www.pexels.com/sv-se/foto/mat-halsosam-person-hand-7457480/), [5th image](https://www.pexels.com/photo/food-healthy-landscape-man-7457197/)
+<br>Photo by Mochi Mochi: [link to image](https://www.pexels.com/sv-se/foto/flicka-sot-bondgard-vaxter-17710983/)
+<br> Photo by Анна Романченко: [link to image](https://www.pexels.com/sv-se/foto/halsosam-rod-frukt-sot-3186961/)
+<br> Photo by Nataliya Vaitkevich: [link to image](https://www.pexels.com/sv-se/foto/rod-konst-glas-frukt-7184344/)
+<br> Photo by Ngo Tien Quyen: [link to image](https://www.pexels.com/photo/strawberries-in-wig-basket-16221459/)
+<br>Photo by Petra Nesti: [link to image](https://www.pexels.com/photo/strawberries-in-wooden-wicker-basket-on-farm-12775190/)
 
 
 
