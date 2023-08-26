@@ -123,13 +123,17 @@ a {
 
 li a:hover {
     color: #E60800;
-    text-shadow: 0 0 20px #E60800;
+    text-shadow: 0 0 1.5rem #E60800;
 }
 
 .active:hover {
     border-bottom: 0.1rem solid #E60800;
 }
 
+i:hover {
+    color: #E60800;
+    text-shadow: none;
+}
 
 
 /* Dropdown toggle for navigation bar menu */
