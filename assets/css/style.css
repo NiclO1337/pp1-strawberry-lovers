@@ -187,15 +187,21 @@ main {
 
 /* Gallery page */
 
-.gallery-flex-container {
+/* .gallery-flex-container {
     display: flex;
-    flex-wrap: wrap;
-}
+    flex-flow: row wrap;    
+} */
 
 #photos img {
     width: 100%;
+    line-height: 1rem;
+    padding: 0.3rem;
 }
 
+#photos {
+    line-height: 0;
+    margin: 0.3rem;
+}
 
 /* Footer styles */
 
@@ -242,6 +248,10 @@ footer {
 
     .logo-text {
         padding: 0.5rem 0.3rem;
+    }   
+    #photos {
+        column-count: 2;
+        gap: 0;
     }
 }
 
@@ -284,6 +294,9 @@ footer {
     .nav-toggle-label {
         display: none;
     }
+    #photos {
+        column-count: 3;
+    }
 }
 
 
@@ -309,8 +322,7 @@ footer {
 
     nav {
         font-size: 110%;
-    }
-    
+    }    
 }
 
 
@@ -340,6 +352,10 @@ footer {
 
     nav {
         font-size: 120%;
+    }
+
+    #photos {
+        column-count: 4;
     }
 }
 
