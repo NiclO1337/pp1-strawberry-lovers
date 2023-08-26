@@ -267,11 +267,11 @@ input[type=email]:focus {
 }
 
 .form-button {
-    padding: 0.5rem;
+    padding: 1rem 1.45rem;
     background-color: #890400;
     color: #ffeaea;
     border-radius: 0.4rem;
-    margin-right: 0.8rem;
+    margin-right: 0.6rem;
 }
 
 .form-button:hover {
