@@ -170,8 +170,8 @@ footer {
     display: flex;
     justify-content: center;
     list-style-type: none;
-    gap: 2rem;
-    font-size: 180%;
+    gap: 10%;
+    font-size: 200%;
     height: 4rem;
     align-items: center;
 }
