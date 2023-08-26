@@ -237,6 +237,18 @@ main {
     margin-top: 0.6rem;
 }
 
+input {
+    padding: 0.5rem;
+    border: 1px solid #890400;
+    background-color: #ffeaea;
+    color: #890400;
+    margin: 0.2rem 0 0.4rem 0;
+}
+
+::placeholder {
+    color: #890400;
+}
+
 .form-button {
     padding: 0.6rem;
     background-color: #890400;
