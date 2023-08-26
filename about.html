@@ -66,43 +66,50 @@
                     <h2>Join us</h2>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, voluptatum non. Nesciunt asperiores vero expedita architecto consequuntur ea modi, suscipit facere vel illo nostrum est excepturi dolores unde tempora rerum.</p>
                     <form action="https://formdump.codeinstitute.net/" method="POST" target="_blank"><br>
-                        <label for="f-name">First name:</label><br>
-                        <input type="text" id="f-name" name="first-name" 
-                            placeholder="First name (required)" required><br>
-                        <label for="l-name">Last name:</label><br>
-                        <input type="text" id="l-name" name="last-name" 
-                            placeholder="Last name (required)" required><br>
-                        <label for="email">Email address:</label><br>
-                        <input type="email" id="email" name="email-address" 
-                            placeholder="Email address (required)"required><br>
-                        
-                        <p class="space-above">Prefered place to grow:</p>
-                        <div>                        
-                            <input type="radio" name="pref-grow" id="garden" value="Garden" class="space-above" checked required>
-                            <label for="garden">Garden</label>
-                        </div>
-                        <div>
-                            <input type="radio" name="pref-grow" id="greenhouse" value="Greenhouse" required>
-                            <label for="greenhouse">Greenhouse</label>                        
-                        </div>
-                        <div>                        
-                            <input type="radio" name="pref-grow" id="appartment" value="Appartment" required>
-                            <label for="appartment">Appartment</label>
-                        </div>
-                        <div class="space-above">
-                            <label for="fav-seeds">Favorite seeds:</label><br>
-                            <input type="text" id="fav-seeds" name="favorite-seed" 
-                            list="seeds" placeholder="Favorite seeds (optional)">
-                            <datalist id="seeds">
-                                <option value="1"></option>
-                                <option value="2"></option>
-                                <option value="3"></option>
-                                <option value="4"></option>
-                                <option value="5"></option>
-                                <option value="6"></option>
-                                <option value="7"></option>
-                                <option value="8"></option>
-                            </datalist>
+                        <div class="form-flex-container">
+                            <div>
+                                <label for="f-name">First name:</label><br>
+                                <input type="text" id="f-name" name="first-name" 
+                                    placeholder="First name (required)" required><br>
+                                <label for="l-name">Last name:</label><br>
+                                <input type="text" id="l-name" name="last-name" 
+                                    placeholder="Last name (required)" required><br>
+                                <label for="email">Email address:</label><br>
+                                <input type="email" id="email" name="email-address" 
+                                    placeholder="Email address (required)"required><br>
+                            </div>
+                            <div>
+                                <p class="space-above">Prefered place to grow:</p>
+                                <div>                        
+                                    <input type="radio" name="pref-grow" id="garden" value="Garden" class="space-above" checked required>
+                                    <label for="garden">Garden</label>
+                                </div>
+                                <div>
+                                    <input type="radio" name="pref-grow" id="greenhouse" value="Greenhouse" required>
+                                    <label for="greenhouse">Greenhouse</label>                        
+                                </div>
+                                <div>                        
+                                    <input type="radio" name="pref-grow" id="appartment" value="Appartment" required>
+                                    <label for="appartment">Appartment</label>
+                                </div>
+                                
+                                <div class="space-above-seeds">
+                                    <label for="fav-seeds">Favorite seeds:</label><br>
+                                    <input type="text" id="fav-seeds" name="favorite-seed" 
+                                    list="seeds" placeholder="Favorite seeds (optional)">
+                                    <datalist id="seeds">
+                                        <option value="Gasana"></option>
+                                        <option value="Montana"></option>
+                                        <option value="Ostara"></option>
+                                        <option value="Ruby Ann"></option>
+                                        <option value="Toscana"></option>
+                                        <option value="Florence"></option>
+                                        <option value="Honeoye"></option>
+                                        <option value="Polka"></option>
+                                        <option value="Sonata"></option>
+                                    </datalist>
+                                </div>
+                            </div>
                         </div>
                         <input type="submit" class="space-above form-button" value="Submit">      
                         <input type="reset" class="form-button" value="Reset">              

@@ -206,7 +206,6 @@ main {
     display: flex;
     flex-direction: column;
     width: 100%;
-    /* margin-top: 1.5rem; */
     align-items: center;
     justify-content: center;
     margin-bottom: 1rem;
@@ -217,7 +216,7 @@ main {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 1.5rem;
+    margin-top: 5%;
     max-width: 90%;
     border-radius: 1rem;
 }
@@ -240,6 +239,11 @@ main {
 .space-above {
     margin-top: 0.6rem;
 }
+
+.space-above-seeds{
+    margin-top: 0.6rem;
+}
+
 
 input {
     padding: 0.5rem;
@@ -370,6 +374,17 @@ footer {
     #photos {
         column-count: 3;
     }
+
+    .form-flex-container {
+        display: flex;
+        gap: 1rem;
+        align-items: flex-end;
+    }
+
+    .space-above-seeds {
+        padding-top: 1.2rem;
+    }
+
 }
 
 
