@@ -240,7 +240,7 @@ main {
 input {
     padding: 0.5rem;
     border: 1px solid #890400;
-    border-radius: 5px;
+    border-radius: 0.4rem;
     background-color: #ffeaea;
     color: #890400;
     margin: 0.2rem 0 0.4rem 0;
@@ -259,10 +259,10 @@ input[type=email]:focus {
 }
 
 .form-button {
-    padding: 0.6rem;
+    padding: 0.5rem;
     background-color: #890400;
     color: #ffeaea;
-    border-radius: 0.1rem;
+    border-radius: 0.4rem;
     margin-right: 0.8rem;
 }
 
