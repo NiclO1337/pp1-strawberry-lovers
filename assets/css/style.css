@@ -117,6 +117,15 @@ a {
     color: #890400;
 }
 
+a:hover {
+    color: #E60800;
+    background-color: #E60800;
+}
+
+.active {
+    border-bottom: 0.1rem solid #890400;
+}
+
 
 /* Dropdown toggle for navigation bar menu */
 
