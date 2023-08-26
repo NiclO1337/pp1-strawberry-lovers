@@ -62,8 +62,8 @@ None
 - Accessibility
 
 ## Deployment
-- Github
-
+Project repository was created from Code Institute template then cloned to my computer using VS code. Changes were continuously pushed back up to Github and then deployed using Github pages. <br>
+Link to live website: [PP1 Strawberry Lovers](https://niclo1337.github.io/pp1-strawberry-lovers/index.html)
 ## Credits
 
 ### Content
@@ -85,6 +85,8 @@ https://www.pexels.com/photo/strawberry-on-blue-surface-566888/
 ### Code
 
 - Some of the code from the Love Running walkthrough project was used and adapted.
+
+- Was inspired by this beautiful project from a fellow classmate, Sarah-Lee Bester, both from code written and also design. https://taalverena.github.io/bro-code/index.html
 
 - Took inspiration from Ulrike Riemenschneider's README file, she is very ambitious and thorough. <br>
 https://github.com/URiem/art-school/blob/main/README.md
