@@ -90,6 +90,8 @@ Photos by Jonathan Borba: [link to image](https://www.pexels.com/sv-se/foto/flic
 <br> Photo by Ngo Tien Quyen: [link to image](https://www.pexels.com/photo/strawberries-in-wig-basket-16221459/)
 <br>Photo by Petra Nesti: [link to image](https://www.pexels.com/photo/strawberries-in-wooden-wicker-basket-on-farm-12775190/)
 
+#### About us
+Photo by Gustavo Fring: [link to image](https://www.pexels.com/photo/father-and-daughter-gardening-outdoors-4894606/)
 
 
 
@@ -97,16 +99,13 @@ Photos by Jonathan Borba: [link to image](https://www.pexels.com/sv-se/foto/flic
 
 - Some of the code from the Love Running walkthrough project was used and adapted.
 
-- Was inspired by this beautiful project from a fellow classmate, Sarah-Lee Bester, both from code written and also design. https://taalverena.github.io/bro-code/index.html
+- Was inspired by this beautiful project from a fellow classmate, Sarah-Lee Bester, both from code written and also design. Link to project: [Bro-code](https://taalverena.github.io/bro-code/index.html)
 
-- Took inspiration from Ulrike Riemenschneider's README file, she is very ambitious and thorough. <br>
-https://github.com/URiem/art-school/blob/main/README.md
+- Took inspiration from Kera Cudmore's very comprehensive README guide: [Readme examples.](https://github.com/kera-cudmore/readme-examples)
 
-- Took inspiration from this very comprehensive README guide:
-https://github.com/kera-cudmore/readme-examples
 
 - Re-watched this video to make absolute positioning work:
-https://www.youtube.com/watch?v=jx5jmI0UlXU&t=18s
+[Learn CSS Position In 9 Minutes](https://www.youtube.com/watch?v=jx5jmI0UlXU&t=18s)
 
 - Re-watched this video to make sticky positioning work:
-https://www.youtube.com/watch?v=NzjU1GmKosQ
+[The Forgotten CSS Position](https://www.youtube.com/watch?v=NzjU1GmKosQ)
