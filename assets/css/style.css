@@ -117,14 +117,19 @@ a {
     color: #890400;
 }
 
-a:hover {
-    color: #E60800;
-    text-shadow: 0 0 20px #890400;
-}
-
 .active {
     border-bottom: 0.1rem solid #890400;
 }
+
+li a:hover {
+    color: #E60800;
+    text-shadow: 0 0 20px #E60800;
+}
+
+.active:hover {
+    border-bottom: 0.1rem solid #E60800;
+}
+
 
 
 /* Dropdown toggle for navigation bar menu */
