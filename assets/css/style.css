@@ -218,15 +218,15 @@ main {
 
 .flex-child img {
     width: 100%;
+    border-radius: 1rem;
 }
 
 .section-style {
-    margin-top: 1rem;
+    margin: 1rem;
     background-color: #ffeaea9c;
     border-radius: 1rem;
     color: #890400;
     padding: 0.8rem 1rem;
-    margin-bottom: 1rem;
 }
 
 .flex-child h2 {
@@ -240,9 +240,18 @@ main {
 input {
     padding: 0.5rem;
     border: 1px solid #890400;
+    border-radius: 5px;
     background-color: #ffeaea;
     color: #890400;
     margin: 0.2rem 0 0.4rem 0;
+    outline: none;
+}
+
+input[type=text]:hover,
+input[type=email]:hover,
+input[type=text]:focus,
+input[type=email]:focus {
+    border: 1px solid #E60800;
 }
 
 ::placeholder {
