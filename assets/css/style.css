@@ -64,6 +64,10 @@ https://www.pexels.com/sv-se/foto/bondgard-frukt-vaxter-jordgubbar-7457179/ */
     font-weight: 500;
 }
 
+.fa-face-grin-hearts {
+    font-size: 100%;
+}
+
 header {    
     width: 100%;
     background-color: #ffeaea;
@@ -246,6 +250,10 @@ footer {
         font-weight: 300;
     }
 
+    .fa-face-grin-hearts {
+        font-size: 90%;
+    }
+
     nav {
         display: block;
         position: relative;
@@ -306,6 +314,10 @@ footer {
     #welcome-text {
         font-size: 210%;
         font-weight: 200;
+    }
+
+    .fa-face-grin-hearts {
+        font-size: 80%;
     }
 
     .logo-text {        
