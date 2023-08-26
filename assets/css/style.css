@@ -93,7 +93,7 @@ header a {
     no-repeat center center / cover;
 }
 
-#logo-text {
+.logo-text {
     line-height: 100%;
     font-size: 200%;
     padding: 0.5rem;
@@ -223,7 +223,7 @@ footer {
         display: none;
     }
 
-    #logo-text {
+    .logo-text {
         padding: 0.5rem 0.3rem;
     }
 }
@@ -281,7 +281,7 @@ footer {
         font-size: 180%;        
     }
 
-    #logo-text {        
+    .logo-text {        
         font-size: 230%;
         padding: 0.5rem 0 0.5rem 0.5rem;
     }
@@ -308,7 +308,7 @@ footer {
         font-weight: 200;
     }
 
-    #logo-text {        
+    .logo-text {        
         font-size: 240%;
         padding: 0.6rem 0 0.6rem 0.6rem;
     }
@@ -344,7 +344,7 @@ footer {
         font-size: 270%;
     }
 
-    #logo-text {        
+    .logo-text {        
         font-size: 260%;
         padding: 0.6rem 0 0.6rem 0.6rem;
     }
