@@ -184,6 +184,19 @@ main {
 }
 
 
+
+/* Gallery page */
+
+.gallery-flex-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#photos img {
+    width: 100%;
+}
+
+
 /* Footer styles */
 
 footer {
