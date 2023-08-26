@@ -28,7 +28,8 @@ body {
     font-family: 'Bricolage Grotesque', sans-serif;
 }
 
-h1 {
+h1,
+h2 {
     font-family: 'Shantell Sans', sans-serif;
     text-transform: uppercase;
     font-weight: 800;
@@ -39,6 +40,7 @@ h1 {
 i {
     color: #890400;
 }
+
 
 /* Header styles */
 
@@ -181,6 +183,16 @@ main {
     #ffb7b7, #ffa7a7, #ff9d9a, #ff837c, #fc675c, #f5493b, #e2372b,
     #ce221c, #bb000b, #9b000e, #7c000d, #5e0109, #420200);
     flex: 1 0 auto;
+}
+
+.flex-container {
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.flex-child {
+    width: 80%;
+    align-items: center;
 }
 
 
