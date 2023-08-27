@@ -204,25 +204,30 @@ main {
 
 #intro-image {
     width: 90%;
-    max-width: 27rem;
+    max-width: 30rem;
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-top: 1rem;
     height: 15rem;
     border-radius: 1rem;
-    background: url(../images/intro-image.jpg) no-repeat top center / cover;
+    background: url(../images/intro-image.jpg) no-repeat center center / cover;
 }
 
 .main-section-style {
     margin-top: 1rem;
     margin-left: auto;
     margin-right: auto;
-    max-width: 90%;
+    width: 90%;
     background-color: #ffeaea9c;
     border-radius: 1rem;
     color: #890400;
     padding: 0.8rem 1rem;
+    max-width: 30rem;
+}
+
+.align-center {
+    text-align: center;
 }
 
 
@@ -428,6 +433,30 @@ footer {
         display: none;
     }
 
+    /* Main page */
+    .main-flex-container {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        margin-top: 1rem;
+    }
+
+    .main-section-style {
+        margin-left: 0;
+        margin-right: auto;
+        width: 60%;
+        max-width: 28rem;
+    }
+
+    #intro-image {
+        margin-left: auto;
+        margin-right: 0;
+        margin-right: 2rem;
+        height: 10.5rem;
+        max-width: 25%;
+    }
+
     /* Gallery */
     #photos {
         column-count: 3;
@@ -468,6 +497,13 @@ footer {
         font-size: 110%;
     }
 
+    /* Main page */
+   
+    #intro-image {
+        max-width: 25%;
+    }
+
+    /* About page */
     .about-flex-container {
         flex-direction: row;
         justify-content: center;
@@ -480,7 +516,6 @@ footer {
         margin-left: 0;
         margin-right: auto;
         order: 1;
-        order: 2;
         flex: 1 0;
         margin-right: 2rem;
         height: 42rem;
@@ -526,6 +561,19 @@ footer {
         font-size: 120%;
     }
 
+    /* Main page */
+    .main-flex-container {
+        font-size: 115%;
+    }
+    .main-section-style {
+        max-width: 42rem;
+    }
+
+    #intro-image {
+        height: 10.6rem;
+        max-width: 25%;
+    }
+
     /* Gallery */
     #photos {
         column-count: 4;
@@ -551,6 +599,10 @@ footer {
         font-size: 240%;
     }
 
+    #intro-image {
+        max-width: 25%;
+    }
+
 }
 
 
@@ -572,4 +624,16 @@ footer {
     nav {
         font-size: 140%;
     }
+
+    /* Main page */
+    .main-section-style {
+        max-width: 48rem;
+    }
+
+    #intro-image {
+        height: 9.2rem;
+        max-width: 25%;
+        background-position: bottom -4rem center;
+    }
+
 }
