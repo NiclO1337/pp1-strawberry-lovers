@@ -263,6 +263,16 @@ main {
     margin-top: 2rem;
 }
 
+iframe {
+    width: 90%;
+    height: 315px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 560px;
+}
+
+
 /* Gallery page */
 #photos img {
     width: 100%;
@@ -488,6 +498,15 @@ footer {
         height: 10.5rem;
         max-width: 25%;
     }
+
+    .main-flex-container {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        margin-top: 1rem;
+    }
+
 
     /* Gallery */
     #photos {
