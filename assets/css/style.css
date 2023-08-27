@@ -473,7 +473,7 @@ footer {
         margin-top: 1rem;
     }
 
-    .main-section-style {
+    .intro-section-style {
         margin-left: 0;
         margin-right: auto;
         width: 60%;
@@ -596,7 +596,7 @@ footer {
     .intro-flex-container {
         font-size: 115%;
     }
-    .main-section-style {
+    .intro-section-style {
         max-width: 42rem;
     }
 
@@ -657,7 +657,7 @@ footer {
     }
 
     /* Main page */
-    .main-section-style {
+    .intro-section-style {
         max-width: 48rem;
     }
 
