@@ -217,16 +217,18 @@ main {
 }
 
 .img-flex-child {
-    max-width: 30rem;
+    width: 90%;
+    max-width: 27rem;
 }
 
-.about-flex-container img {
+.about-flex-container .img-flex-child {
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-top: 1rem;
-    max-width: 90%;
+    height: 15rem;
     border-radius: 1rem;
+    background: url(../images/about-us.jpg) no-repeat top center / cover;
 }
 
 .section-style {
@@ -441,7 +443,7 @@ footer {
         gap: 2rem;
     }
 
-    .about-flex-container img {
+    .about-flex-container .img-flex-child {
         margin-left: 0;
         margin-right: auto;
         order: 1;
@@ -455,7 +457,11 @@ footer {
     .img-flex-child {
         order: 2;
         flex: 1 0;
-        max-width: 53%;
+    }
+
+    .about-flex-container .img-flex-child {
+        margin-right: 2rem;
+        height: 37.4rem;
     }
 
     .form-flex-child {
