@@ -78,6 +78,7 @@ Photo by Toni Cuenca: [link to image](https://www.pexels.com/photo/strawberry-on
 #### Main page
 
  Photo by from Kindel Media: [link to image](https://www.pexels.com/sv-se/foto/bondgard-frukt-vaxter-jordgubbar-7457179/)
+ <br>Bild av Aphiwat  chuangchoem: [link to image](https://www.pexels.com/sv-se/foto/mat-halsosam-person-rod-365839/)
 
 
 #### Gallery
