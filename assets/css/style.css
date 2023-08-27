@@ -22,7 +22,7 @@ Very light red	#ffeaea */
 
 /* General styles */
 body {
-    min-height: 200vh;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     font-family: 'Bricolage Grotesque', sans-serif;
@@ -200,7 +200,7 @@ main {
 }
 
 /* Main page */
-.main-flex-container {
+.intro-flex-container {
     display: flex;
     flex-direction: column;
     width: 100%;
@@ -209,9 +209,9 @@ main {
     margin-bottom: 1rem;
 }
 
-.maincontent-flex-container {
+.main-flex-container {
     display: flex;
-    flex-flow: row wrap;
+    flex-flow: column;
     width: 100%;
     align-items: center;
     justify-content: center;
@@ -465,7 +465,7 @@ footer {
     }
 
     /* Main page */
-    .main-flex-container {
+    .intro-flex-container {
         flex-direction: row;
         flex-wrap: wrap;
         justify-content: center;
@@ -593,7 +593,7 @@ footer {
     }
 
     /* Main page */
-    .main-flex-container {
+    .intro-flex-container {
         font-size: 115%;
     }
     .main-section-style {
