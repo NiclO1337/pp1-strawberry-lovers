@@ -34,19 +34,17 @@ h2 {
     text-transform: uppercase;
     font-weight: 800;
     font-style: italic;
-    color:#890400;
-    margin-bottom: 0.4rem;
+    color:#890400;    
 }
 
 h3 {
     font-family: 'Shantell Sans', sans-serif;
     font-style: italic;
     color:#890400;
-    margin-bottom: 0.4rem;
 }
 
 p {
-    padding-bottom: 0.6rem;
+    padding-top: 0.6rem;
 }
 
 i {
@@ -219,16 +217,14 @@ main {
 .main-flex-container {
     display: flex;
     flex-flow: column;
-    width: 100%;
     align-items: center;
-    justify-content: center;
+    width: 100%;
     margin-bottom: 1rem;
 }
 
 #intro-image {
     width: 90%;
-    max-width: 30rem;
-    display: block;
+    max-width: 32rem;
     margin-left: auto;
     margin-right: auto;
     margin-top: 1rem;
@@ -246,7 +242,7 @@ main {
     border-radius: 1rem;
     color: #890400;
     padding: 0.8rem 1rem;
-    max-width: 30rem;
+    max-width: 32rem;
 }
 
 .main-section-style {
@@ -258,7 +254,7 @@ main {
     border-radius: 1rem;
     color: #890400;
     padding: 0.8rem 1rem;
-    max-width: 30rem;
+    max-width: 32rem;
 }
 
 .align-center {
@@ -270,7 +266,11 @@ main {
 }
 
 main h2 {
-    /* font-size: 140%; */
+    font-size: 160%;
+}
+
+.light-color-text {
+    color: #ffeaea;
 }
 
 
@@ -435,6 +435,11 @@ footer {
         column-count: 2;
         gap: 0;
     }
+
+    /* Main page */
+    main h2 {
+        font-size: 180%;
+    }
         
     /* About us */
     .form-flex-container {
@@ -492,6 +497,10 @@ footer {
         display: none;
     }
 
+    #submenu {
+        display: none;
+    }
+
     /* Main page */
     .intro-flex-container {
         flex-direction: row;
@@ -517,13 +526,23 @@ footer {
     }
 
     .main-flex-container {
-        flex-direction: row;
         flex-wrap: wrap;
-        justify-content: center;
+        justify-content: flex-start;
         align-items: center;
-        margin-top: 1rem;
+        gap: 1rem;
+        column-gap: 1rem;
+        max-height: 100rem;
+        margin: 1rem;
     }
 
+    .main-section-style{
+        width: 40%;
+        flex: 1;
+    }
+
+    .greenhouse {
+        max-height: 100rem;
+    }
 
     /* Gallery */
     #photos {
