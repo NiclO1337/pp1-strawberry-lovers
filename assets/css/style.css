@@ -202,7 +202,7 @@ main {
 
 /* About us page */
 
-.flex-container {
+.about-flex-container {
     display: flex;
     flex-direction: column;
     width: 100%;
@@ -211,12 +211,11 @@ main {
     margin-bottom: 1rem;
 }
 
-
-.flex-container img {
+.about-flex-container img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 5%;
+    margin-top: 1rem;
     max-width: 90%;
     border-radius: 1rem;
 }
@@ -230,10 +229,6 @@ main {
     border-radius: 1rem;
     color: #890400;
     padding: 0.8rem 1rem;
-}
-
-.flex-child h2 {
-    margin-bottom: 0.4rem;
 }
 
 .space-above {
@@ -371,9 +366,14 @@ footer {
     .nav-toggle-label {
         display: none;
     }
+
+    /* Gallery */
+
     #photos {
         column-count: 3;
     }
+
+    /* About us */
 
     .form-flex-container {
         display: flex;
@@ -384,7 +384,6 @@ footer {
     .space-above-seeds {
         padding-top: 1.2rem;
     }
-
 }
 
 
@@ -412,12 +411,33 @@ footer {
         font-size: 110%;
     }
 
-    .flex-container {
-        flex-flow: row wrap;
+    .about-flex-container {
+        flex-direction: row;
+        justify-content: center;
+        align-items: flex-start;
+        margin-top: 1rem;
+        gap: 2rem;
     }
 
-    .flex-child {
-        flex-basis: 30rem;
+    .about-flex-container img {
+        margin-left: 0;
+        margin-right: auto;
+        order: 1;
+    }
+    
+    .section-style {
+        margin-left: auto;
+        margin-right: 0;
+    }
+
+    .img-flex-child {
+        order: 2;
+        flex: 1 0;
+        max-width: 53%;
+    }
+
+    .form-flex-child {
+        flex: 0 1 30rem;
     }
 }
 
@@ -450,9 +470,15 @@ footer {
         font-size: 120%;
     }
 
+    /* Gallery */
+
     #photos {
         column-count: 4;
     }
+
+    /* About us */
+
+    
 }
 
 @media screen and (min-width: 1600px) {
