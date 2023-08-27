@@ -32,7 +32,7 @@ TODO add: list with features
 
 ### Unfixed bugs
 
-None
+- HTML validation error from meta tag charset
 
 ## Technologies used
 
