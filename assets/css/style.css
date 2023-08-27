@@ -189,8 +189,42 @@ main {
     background-image: linear-gradient(to bottom, #ffb7b7, #ffb7b7,
     #ffb7b7, #ffa7a7, #ff9d9a, #ff837c, #fc675c, #f5493b, #e2372b,
     #ce221c, #bb000b, #9b000e, #7c000d, #5e0109, #420200);
-    flex: 1 0 auto;
+    flex: 1 0 auto; /* makes sure footer is pushed down */
 }
+
+/* Main page */
+.main-flex-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+
+#intro-image {
+    width: 90%;
+    max-width: 27rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+    height: 15rem;
+    border-radius: 1rem;
+    background: url(../images/intro-image.jpg) no-repeat top center / cover;
+}
+
+.main-section-style {
+    margin-top: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 90%;
+    background-color: #ffeaea9c;
+    border-radius: 1rem;
+    color: #890400;
+    padding: 0.8rem 1rem;
+}
+
 
 /* Gallery page */
 #photos img {
