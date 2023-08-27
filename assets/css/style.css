@@ -250,6 +250,10 @@ main {
     margin-top: 0.4rem;
 }
 
+.section-style p:nth-child(4) {
+    margin-bottom: -1rem;
+}
+
 input {
     padding: 0.5rem;
     border: 1px solid #890400;
@@ -445,7 +449,7 @@ footer {
         order: 2;
         flex: 1 0;
         margin-right: 2rem;
-        height: 43rem;
+        height: 42rem;
         max-width: 35rem;
     }
     
