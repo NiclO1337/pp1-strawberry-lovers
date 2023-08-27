@@ -38,6 +38,13 @@ h2 {
     margin-bottom: 0.4rem;
 }
 
+h3 {
+    font-family: 'Shantell Sans', sans-serif;
+    font-style: italic;
+    color:#890400;
+    margin-bottom: 0.4rem;
+}
+
 p {
     padding-bottom: 0.6rem;
 }
@@ -202,6 +209,15 @@ main {
     margin-bottom: 1rem;
 }
 
+.maincontent-flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+
 #intro-image {
     width: 90%;
     max-width: 30rem;
@@ -212,6 +228,18 @@ main {
     height: 15rem;
     border-radius: 1rem;
     background: url(../images/intro-image.jpg) no-repeat center center / cover;
+}
+
+.intro-section-style {
+    margin-top: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    background-color: #ffeaea9c;
+    border-radius: 1rem;
+    color: #890400;
+    padding: 0.8rem 1rem;
+    max-width: 30rem;
 }
 
 .main-section-style {
@@ -230,6 +258,9 @@ main {
     text-align: center;
 }
 
+.margin-above {
+    margin-top: 2rem;
+}
 
 /* Gallery page */
 #photos img {
