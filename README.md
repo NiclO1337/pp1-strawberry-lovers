@@ -80,6 +80,9 @@ Photo by Toni Cuenca: [link to image](https://www.pexels.com/photo/strawberry-on
  Photo by from Kindel Media: [link to image](https://www.pexels.com/sv-se/foto/bondgard-frukt-vaxter-jordgubbar-7457179/)
  <br>Bild av Aphiwat  chuangchoem: [link to image](https://www.pexels.com/sv-se/foto/mat-halsosam-person-rod-365839/)
 
+Recipes and video from Beryl Shereshewsky: [link to video](https://www.youtube.com/watch?v=UZZ4MuDuvpM)
+
+
 
 #### Gallery
 Photos by Jonathan Borba: [link to image](https://www.pexels.com/sv-se/foto/flicka-bondgard-lycklig-leende-15672283/), [2nd image](https://www.pexels.com/sv-se/foto/flicka-lantbruk-bondgard-lov-15672380/), [3rd image](https://www.pexels.com/photo/woman-holding-a-freshly-picked-strawberry-15682917/), [4th image](https://www.pexels.com/photo/two-girls-holding-strawberries-on-a-farm-15672326/), [5th image](https://www.pexels.com/photo/man-picking-strawberries-15682920/)
