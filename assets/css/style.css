@@ -393,6 +393,9 @@ input[type="email"]:focus {
   color: #ffeaea;
   border-radius: 0.4rem;
   margin-right: 0.6rem;
+  font-family: "Shantell Sans", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
 }
 
 .form-button:hover {
