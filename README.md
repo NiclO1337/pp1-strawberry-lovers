@@ -84,7 +84,7 @@ Recipes and video from Beryl Shereshewsky: [link to video](https://www.youtube.c
 
 
 
-#### Gallery
+#### Gallery page
 Photos by Jonathan Borba: [link to image](https://www.pexels.com/sv-se/foto/flicka-bondgard-lycklig-leende-15672283/), [2nd image](https://www.pexels.com/sv-se/foto/flicka-lantbruk-bondgard-lov-15672380/), [3rd image](https://www.pexels.com/photo/woman-holding-a-freshly-picked-strawberry-15682917/), [4th image](https://www.pexels.com/photo/two-girls-holding-strawberries-on-a-farm-15672326/), [5th image](https://www.pexels.com/photo/man-picking-strawberries-15682920/)
 <br>Photo by David Boozer: [link to image](https://www.pexels.com/photo/strawberries-in-macro-shot-1125121/)
 <br>Photos by Kindel Media: [link to image](https://www.pexels.com/sv-se/foto/person-kvinna-lantbruk-bondgard-7457178/), [2nd image](https://www.pexels.com/sv-se/foto/bondgard-frukt-vaxter-jordgubbar-7457184/), [3rd image](https://www.pexels.com/sv-se/foto/bondgard-staende-leende-jordgubbe-7456823/), [4th image](https://www.pexels.com/sv-se/foto/mat-halsosam-person-hand-7457480/), [5th image](https://www.pexels.com/photo/food-healthy-landscape-man-7457197/)
@@ -94,9 +94,12 @@ Photos by Jonathan Borba: [link to image](https://www.pexels.com/sv-se/foto/flic
 <br> Photo by Ngo Tien Quyen: [link to image](https://www.pexels.com/photo/strawberries-in-wig-basket-16221459/)
 <br>Photo by Petra Nesti: [link to image](https://www.pexels.com/photo/strawberries-in-wooden-wicker-basket-on-farm-12775190/)
 
-#### About us
+#### About us page
 Photo by Gustavo Fring: [link to image](https://www.pexels.com/photo/father-and-daughter-gardening-outdoors-4894606/)
 
+
+#### Welcome page
+Photo by Efrem  Efre : [link to image](https://www.pexels.com/photo/strawberries-17644212/)
 
 
 ### Code
