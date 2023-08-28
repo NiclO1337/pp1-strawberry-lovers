@@ -541,6 +541,7 @@ footer {
 
     .main-section-style{
         width: 45%;
+        max-width: 32rem;
     }
 
     .greenhouse {
@@ -603,6 +604,7 @@ footer {
 
     .main-flex-container {
         max-height: 50rem;
+        max-width: 90%;
     }
 
     /* About page */
@@ -678,6 +680,7 @@ footer {
 
     .main-flex-container {
         max-height: 50rem;
+        max-width: 80%;
     }
 
     /* Gallery */
