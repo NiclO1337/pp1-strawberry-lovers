@@ -550,7 +550,7 @@ footer {
   }
 
   .greenhouse-section-style {
-    max-height: 60rem;
+    max-height: 58rem;
   }
 
   .force-right-column {
@@ -722,6 +722,7 @@ footer {
 
   .main-flex-container {
     max-height: 45rem;
+    max-width: 70%;
   }
 
   .greenhouse-section-style {
