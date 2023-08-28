@@ -291,6 +291,10 @@ main h2 {
   background-color: #ffeaeace;
 }
 
+.margin-bottom {
+  margin-bottom: 2rem;
+}
+
 .video-flex-container {
   display: flex;
   flex-flow: column;
