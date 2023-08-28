@@ -198,23 +198,10 @@ https://mycolor.space/gradient?ori=to+right+top&hex=%23E60800&hex2=%23FFB7B7&sub
 
 main {
   background-image: linear-gradient(
-    to bottom,
-    #ffb7b7,
-    #ffb7b7,
-    #ffb7b7,
-    #ffa7a7,
-    #ff9d9a,
-    #ff837c,
-    #fc675c,
-    #f5493b,
-    #e2372b,
-    #ce221c,
-    #bb000b,
-    #9b000e,
-    #7c000d,
-    #5e0109,
-    #420200
-  );
+    to bottom,    #ffb7b7,    #ffb7b7,    #ffb7b7,    #ffa7a7,
+    #ff9d9a,    #ff837c,    #fc675c,    #f5493b,    #e2372b,
+    #ce221c,    #bb000b,    #9b000e,    #7c000d,    #5e0109,
+    #420200);
   flex: 1 0 auto; /* makes sure footer is pushed down */
 }
 
@@ -405,6 +392,43 @@ input[type="email"]:focus {
   color: #890400;
 }
 
+/* New member page */
+#welcome-text .welcome-welcome {
+  font-size: 160%;
+}
+
+
+#new-member-background {
+  background: url("../images/welcome-background.webp") 
+  no-repeat bottom center / cover;
+  height: 75vh;
+  width: 100%;
+  margin: 0;
+  display: flex;
+}
+
+.welcome-section-style {
+  margin: 6%;
+  height: fit-content;
+  width: 80%;
+  max-width: 28rem;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ffeaead8;
+  border-radius: 1rem;
+  color: #890400;
+  padding: 0.8rem 1rem 0.6rem;
+  text-align: center;
+}
+
+.welcome-section-style p {  
+  padding-bottom: 0.4rem;
+  padding-top: 0;  
+  font-size: 110%;
+}
+
+
+
 /* Footer styles */
 footer {
   background-color: #ffeaea;
@@ -579,6 +603,16 @@ footer {
   .form-flex-container {
     gap: 1.3rem;
   }
+
+  /* Welcome page */
+  .welcome-section-style {
+    padding: 1.5rem 1.7rem 1rem;
+  }
+  .welcome-section-style p {
+    font-size: 130%;
+  }
+  
+
 }
 
 /* Media query: 992px and up (Laptops) */
@@ -705,6 +739,16 @@ footer {
 
   #photos img {
     padding: 0.5rem;
+  }
+
+  /* Welcome page */
+  .welcome-section-style {
+    padding: 1.8rem 2rem 1.3rem;
+  }
+
+  .welcome-section-style p {
+    font-size: 150%;
+    
   }
 }
 

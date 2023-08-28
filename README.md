@@ -110,7 +110,6 @@ Photo by Efrem  Efre : [link to image](https://www.pexels.com/photo/strawberries
 
 - Took inspiration from Kera Cudmore's very comprehensive README guide: [Readme examples.](https://github.com/kera-cudmore/readme-examples)
 
-
 - Re-watched this video to make absolute positioning work:
 [Learn CSS Position In 9 Minutes](https://www.youtube.com/watch?v=jx5jmI0UlXU&t=18s)
 
