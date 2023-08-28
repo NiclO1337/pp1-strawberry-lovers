@@ -246,6 +246,10 @@ main {
   letter-spacing: 1px;
 }
 
+#internal-links a:hover {
+  color: #e60800;
+  text-shadow: 0 0 1.5rem #e60800;
+}
 
 .main-flex-container {
   display: flex;
