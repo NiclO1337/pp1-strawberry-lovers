@@ -325,7 +325,7 @@ iframe {
   width: 100%;
   align-items: center;
   justify-content: center;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .form-flex-child {
@@ -677,7 +677,7 @@ footer {
     order: 1;
     flex: 1 0;
     margin-right: 2rem;
-    height: 42rem;
+    height: 42.5rem;
     max-width: 35rem;
   }
 
