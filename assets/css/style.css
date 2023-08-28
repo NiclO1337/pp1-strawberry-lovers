@@ -536,7 +536,7 @@ footer {
         margin-left: auto;
         margin-right: auto;
         column-gap: 0;
-        max-height: 75rem;
+        max-height: 60rem;
     }
 
     .main-section-style{
@@ -544,7 +544,7 @@ footer {
     }
 
     .greenhouse {
-        max-height: 70rem;
+        max-height: 60rem;
     }
 
     .force-right-column {
@@ -602,7 +602,7 @@ footer {
     }
 
     .main-flex-container {
-        max-height: 60rem;
+        max-height: 50rem;
     }
 
     /* About page */
