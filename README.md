@@ -1,13 +1,13 @@
 # Strawberry lovers
 
+
+TODO add: Image of how it looks on different screens
+
+TODO add: Image of how it looks on different screens
+
 Strawberry lovers is a website for an online community who wants to help people be more successful when growing their own strawberries.
 
 This site is not only targeted towards people who are already growing strawberries and want better results but also people who are curious about how to get started. Of course regular strawberry lovers who don't want to grow themselves are also welcome! Perhaps they find this site because of the delicious recipes or they are looking for a fun and friendly community to join.
-
-TODO add: Image of how it looks on different screens
-
-TODO add: Image of how it looks on different screens
-
 
 Link to live website: [PP1 Strawberry Lovers](https://niclo1337.github.io/pp1-strawberry-lovers/index.html)
 
@@ -38,7 +38,7 @@ When choosing font it was important to find one that sets the correct tone. Chos
 
 ### Images
 
-Images chosen to either happy people and also a variety of different types of images to reflect the big variety of members in the community.
+Images chosen to either happy people or beautiful strawberries. Also a variety of different types of images was chosen to reflect the big variety of members in the community. All with the intention to elicit a positive response from user.
 
 ### Wireframes
 
