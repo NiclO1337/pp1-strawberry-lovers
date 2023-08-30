@@ -159,6 +159,9 @@ Validated through https://jigsaw.w3.org/css-validator/validator and passed
 
 - Form submittion not working on deployed website, error code 405.
 <br> Solution: Changed form method from POST to GET.
+- Main content section colums "flexing apart" when increasing screen width.
+<br> Solution: Increase max-width of columns and decrease max-width of flex container.
+
 
 
 
