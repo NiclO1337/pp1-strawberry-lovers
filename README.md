@@ -25,11 +25,17 @@ Intro
 
 ### Colours
 
+Colour scheme is centered around Strawberry red.
+
 
 
 ### Typography
 
+When choosing font it was important to find one that sets the correct tone. Chosen fonts are fun and give an amateur feel. This is not a professional website, it is a fun and friendly community and the font had to reflect that.
+
 ### Images
+
+Images chosen to either happy people and also a variety of different types of images to reflect the big variety of members in the community.
 
 ### Wireframes
 
@@ -42,13 +48,18 @@ Initial wireframes sketch with 2 basic sketch designs.
 
 
 
-<br>
+### The welcome image
+
+
 
 
 TODO add: list with features
 
 - The welcome image
 
+
+
+<details><summary>Wireframes</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693413298/Wireframes_r9qpuo.png" alt="drawing" width="600"/></p> </details>
 
 https://res.cloudinary.com/dmntcacug/image/upload/v1693413997/Feature-welcome_yvkam5.jpg
 
