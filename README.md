@@ -41,7 +41,7 @@ Images chosen to either happy people or beautiful strawberries. Also a variety o
 ### Wireframes
 
 Initial wireframes sketch with 2 basic sketch designs.
-<details><summary>Screenshot of wireframes</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693413298/Wireframes_r9qpuo.png" alt="drawing" width="600"/></p> </details>
+<details><summary>Screenshot of wireframes</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693413298/Wireframes_r9qpuo.png" alt="initial wireframe design sketches" width="600"/></p> </details>
 
 
 ### Accessiblity
@@ -49,7 +49,7 @@ Initial wireframes sketch with 2 basic sketch designs.
 Semantic HTML is used to aid people with with dissabilities such as visual impairment and  alt text is used for all images so it can be read by screen reader. Semantic HTML also helps with search engines optimization so the correct users can find this site and find it useful.<br>
 All pages are designed to be responsive to different screen sizes to accomodate users with different preferred devices.
 
-<details><summary>Screenshot examples of responsive behaviour from mobile to tablet to computer</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693429767/accessibility-example_uooedv.jpg" alt="drawing" width="600"/></p> </details>
+<details><summary>Screenshot examples of responsive behaviour from mobile to tablet to computer</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693429767/accessibility-example_uooedv.jpg" alt="examples of responsive behaviour" width="600"/></p> </details>
 
 
 
@@ -59,48 +59,48 @@ All pages are designed to be responsive to different screen sizes to accomodate 
 
 The welcome image is the first thing a new user sees so very important to set the right tone and elicit the right feeling. Chosen image and text creates a welcoming feel and positive emotion.
 
-<details><summary>Screenshot of welcome image</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693413997/Feature-welcome_yvkam5.jpg" alt="drawing" width="600"/></p> </details>
+<details><summary>Screenshot of welcome image</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693413997/Feature-welcome_yvkam5.jpg" alt="welcome image" width="600"/></p> </details>
 
 
 ### The navigation bar
 
 The navigation bar is avalible on every page and always looks the same to make it easier for user to navigate. It is set to sticky position, so it is always visible to the user when scrolling down. This removes the need for any "back to top" buttons.
 
-<details><summary>Screenshot of navigation bar</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693424680/feature-nav-bar_j8tdvp.jpg" alt="drawing" width="600"/></p> </details>
+<details><summary>Screenshot of navigation bar</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693424680/feature-nav-bar_j8tdvp.jpg" alt="navigation bar" width="600"/></p> </details>
 
 
 ### Links
 
 All links have mouse over effects to give instant feedback to user and indicate that it is a clickable link. Navigation bar links has a border underneath the active one to show user which page is currently displayed.
 
-<details><summary>Screenshot of links with hover effect and which one is active</summary> <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693426011/feature-hover-effect_jmqsy3.jpg" alt="drawing" width="300"/></p> </details>
+<details><summary>Screenshot of links with hover effect and which one is active</summary> <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693426011/feature-hover-effect_jmqsy3.jpg" alt="links with hover and active effect" width="300"/></p> </details>
 
 
 ### The main content
 
 The main content features easy to read text divided into categories and sections. Sections are numbered to make it easier to navigate when content splits into 2 columns on larger screens.
 
-<details><summary>Screenshot of main content</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693426007/feature-main-content_yty0vs.jpg" alt="drawing" width="600"/></p> </details>
+<details><summary>Screenshot of main content</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693426007/feature-main-content_yty0vs.jpg" alt="main content" width="600"/></p> </details>
 
 
 ### The About us page
 
 The about us section is where the user learns more about the community and is given the option to join as a member. 
 
-<details><summary>Screenshot of about us page</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693427885/feature-about-us_ydinwg.jpg" alt="drawing" width="600"/></p> </details>
+<details><summary>Screenshot of about us page</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693427885/feature-about-us_ydinwg.jpg" alt="about us page" width="600"/></p> </details>
 
 
 ### The recipe section
 
 Main content features a recipe section with an embeded youtube video with recipes from around the world.
 
-<details><summary>Screenshot of the recipe section</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693430346/feature-recipes_lnvarq.jpg" alt="drawing" width="600"/></p> </details>
+<details><summary>Screenshot of the recipe section</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693430346/feature-recipes_lnvarq.jpg" alt="recipe section" width="600"/></p> </details>
 
 ### The footer
 
 The footer section has a simple design featuring icons to social media sites. Since icons are used instead of text, aria-labels are used so screen readers know what links are for.
 
-<details><summary>Screenshot of the footer</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693428440/feature-footer_silaam.jpg" alt="drawing" width="600"/></p> </details>
+<details><summary>Screenshot of the footer</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693428440/feature-footer_silaam.jpg" alt="the footer" width="600"/></p> </details>
 
 
 
