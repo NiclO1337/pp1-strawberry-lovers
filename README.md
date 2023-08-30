@@ -90,6 +90,9 @@ The about us section is where the user learns more about the community and is gi
 
 ### The footer
 
+The footer section has a simple design featuring icons to social media sites. Since icons are used instead of text, aria-labels are used so screen readers know what links are for.
+
+<details><summary>Screenshot of the footer</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693428440/feature-footer_silaam.jpg" alt="drawing" width="600"/></p> </details>
 
 
 
