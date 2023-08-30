@@ -46,9 +46,11 @@ Initial wireframes sketch with 2 basic sketch designs.
 
 ### Accessiblity
 
+Semantic HTML is used to aid people with with dissabilities such as visual impairment and  alt text is used for all images so it can be read by screen reader. Semantic HTML also helps with search engines optimization so the correct users can find this site and find it useful.<br>
 All pages are designed to be responsive to different screen sizes to accomodate users with different preferred devices.
-<br>
-Semantic HTML is used to aid people with with dissabilities such as visual impairment and  alt text is used for all images so it can be read by screen reader. Semantic HTML also helps with search engines optimization so the correct users can find this site and find it useful.
+
+<details><summary>Screenshot examples of responsive behaviour from mobile to tablet to computer</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693429767/accessibility-example_uooedv.jpg" alt="drawing" width="600"/></p> </details>
+
 
 
 ## Features
