@@ -135,7 +135,8 @@ The footer section has a simple design featuring icons to social media sites. Si
 - Mycolor.space
 - Compressnow
 - Zamzar 
-- www.w3schools.com
+- w3schools
+- Birme
 
 ## Testing
 
