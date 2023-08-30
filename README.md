@@ -1,9 +1,7 @@
 # Strawberry lovers
 
+![Amiresponsive image](https://res.cloudinary.com/dmntcacug/image/upload/v1693427142/Amiresponsive_aeblsa.jpg)
 
-TODO add: Image of how it looks on different screens
-
-TODO add: Image of how it looks on different screens
 
 Strawberry lovers is a website for an online community who wants to help people be more successful when growing their own strawberries.
 
@@ -69,13 +67,23 @@ The navigation bar is avalible on every page and always looks the same to make i
 <details><summary>Screenshot of navigation bar</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693424680/feature-nav-bar_j8tdvp.jpg" alt="drawing" width="600"/></p> </details>
 
 
+### Links
+
+All links have mouse over effects to give instant feedback to user and indicate that it is a clickable link. Navigation bar links has a border underneath the active one to show user which page is currently displayed.
+
+<details><summary>Screenshot of links with hover effect and which one is active</summary> <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693426011/feature-hover-effect_jmqsy3.jpg" alt="drawing" width="300"/></p> </details>
+
+
 ### The main content
 
+The main content features easy to read text divided into categories and sections. Sections are numbered to make it easier to navigate when content splits into 2 columns on larger screens.
 
-
+<details><summary>Screenshot of main content</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693426007/feature-main-content_yty0vs.jpg" alt="drawing" width="600"/></p> </details>
 
 
 ### The About us section
+
+The about us section is where the user learns more about the community and is given the option to join as a member.
 
 
 ### The footer
