@@ -180,12 +180,23 @@ Result after optimization:
 
 
 #### Improvements
-Different tactics were used to improve the scores. 
-- Converting images from jpg to webp format to dramatically reduce the file size.
+Different tactics were used to improve the lighthouse scores. 
+- Converting images from jpg to webp format to drastically reduce the file size.
 - 
 
 
+#### Left to improve
+
+
+
+
 ### Manual testing
+
+#### Browser
+Website has been tested on Google chrome, Microsoft Edge and Safari.
+
+#### Devices
+Manually tested on mobile device (Xiaomi 12), tablet (Samsung Galaxy tab S4) laptop and desktop computer.
 
 
 ## Bugs
