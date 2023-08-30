@@ -40,7 +40,7 @@ Images chosen to either happy people and also a variety of different types of im
 ### Wireframes
 
 Initial wireframes sketch with 2 basic sketch designs.
-<details><summary>Wireframes</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693413298/Wireframes_r9qpuo.png" alt="drawing" width="600"/></p> </details>
+<details><summary>Screenshot of wireframes</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693413298/Wireframes_r9qpuo.png" alt="drawing" width="600"/></p> </details>
 
 
 
@@ -52,16 +52,9 @@ Initial wireframes sketch with 2 basic sketch designs.
 
 
 
+<details><summary>Screenshot of welcome image.</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693413997/Feature-welcome_yvkam5.jpg" alt="drawing" width="600"/></p> </details>
 
-TODO add: list with features
-
-- The welcome image
-
-
-
-<details><summary>Wireframes</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693413298/Wireframes_r9qpuo.png" alt="drawing" width="600"/></p> </details>
-
-https://res.cloudinary.com/dmntcacug/image/upload/v1693413997/Feature-welcome_yvkam5.jpg
+<br>
 
 
 - The navigation bar
@@ -169,3 +162,8 @@ Photo by Efrem  Efre : [link to image](https://www.pexels.com/photo/strawberries
 
 - Re-watched this video to make sticky positioning work:
 [The Forgotten CSS Position](https://www.youtube.com/watch?v=NzjU1GmKosQ)
+
+
+
+
+[Learn CSS Position In 9 Minutes](https://www.youtube.com/watch?v=jx5jmI0UlXU&t=18s)
