@@ -308,6 +308,7 @@ iframe {
   width: 90%;
   height: 315px;
   max-width: 560px;
+  border: none;
 }
 
 /* Gallery page */

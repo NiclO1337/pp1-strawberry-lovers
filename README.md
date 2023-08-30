@@ -74,6 +74,8 @@ Initial wireframes sketch with 2 basic sketch designs.
 
 ### Solved bugs
 
+- Navigation links on webpage 
+
 - Fixed
 
 ### Unfixed bugs
