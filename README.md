@@ -66,22 +66,6 @@ Initial wireframes sketch with 2 basic sketch designs.
 - Make gallery images larger when clicked
 - Add multiple languages to be more accessible to people from different parts of the world.
 
-## Testing
-
-- Tested.
-
-## Bugs
-
-### Solved bugs
-
-- Navigation links on webpage 
-
-- Fixed
-
-### Unfixed bugs
-
-- HTML validation error from meta tag charset
-
 
 ## Technologies used
 
@@ -103,12 +87,34 @@ Initial wireframes sketch with 2 basic sketch designs.
 - Zamzar 
 - www.w3schools.com
 
+## Testing
 
-## Validator Testing
+### Validator Testing
 
 - HTML
+
 - CSS
-- Accessibility
+Validated through https://jigsaw.w3.org/css-validator/validator and passed
+![Passed without errors](https://res.cloudinary.com/dmntcacug/image/upload/v1693422108/css-validator-pass_xthpbi.jpg)
+
+### Lighthouse testing
+
+
+### Manual testing
+
+
+## Bugs
+
+### Solved bugs
+
+- Navigation links on webpage 
+
+- Fixed
+
+### Unfixed bugs
+
+- HTML validation error from meta tag charset
+
 
 ## Deployment
 Project repository was created from Code Institute template then cloned to my computer using VS code. Changes were continuously pushed back up to Github and then deployed using Github pages. <br>
