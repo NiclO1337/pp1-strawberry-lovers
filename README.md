@@ -46,24 +46,42 @@ Initial wireframes sketch with 2 basic sketch designs.
 <details><summary>Screenshot of wireframes</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693413298/Wireframes_r9qpuo.png" alt="drawing" width="600"/></p> </details>
 
 
+### Accessiblity
+
+All pages are designed to be responsive to different screen sizes to accomodate users with different preferred devices.
+<br>
+Semantic HTML is used to aid people with with dissabilities such as visual impairment and  alt text is used for all images so it can be read by screen reader. Semantic HTML also helps with search engines optimization so the correct users can find this site and find it useful.
+
 
 ## Features
 
-
-
 ### The welcome image
 
+The welcome image is the first thing a new user sees so very important to set the right tone and elicit the right feeling. Chosen image and text creates a welcoming feel and positive emotion.
+
+<details><summary>Screenshot of welcome image</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693413997/Feature-welcome_yvkam5.jpg" alt="drawing" width="600"/></p> </details>
 
 
-<details><summary>Screenshot of welcome image.</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693413997/Feature-welcome_yvkam5.jpg" alt="drawing" width="600"/></p> </details>
+### The navigation bar
 
-<br>
+The navigation bar is avalible on every page and always looks the same to make it easier for user to navigate. It is set to sticky position, so it is always visible to the user when scrolling down. This removes the need for any "back to top" buttons.
+
+<details><summary>Screenshot of navigation bar</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693424680/feature-nav-bar_j8tdvp.jpg" alt="drawing" width="600"/></p> </details>
 
 
-- The navigation bar
-- The Main content
-- The About us section
-- The footer
+### The main content
+
+
+
+
+
+### The About us section
+
+
+### The footer
+
+
+
 
 ## Future features
 - Make gallery images larger when clicked
