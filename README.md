@@ -107,18 +107,20 @@ Validated through https://jigsaw.w3.org/css-validator/validator and passed
 
 ### Solved bugs
 
-- Navigation links on webpage 
+- Form submittion not working on deployed website, error code 405.
+<br> Solution: Changed form method from POST to GET.
 
-- Fixed
+
 
 ### Unfixed bugs
 
-- HTML validation error from meta tag charset
+- HTML validation error from from invisible javascript above meta tag charset="UTF-8"
 
 
 ## Deployment
 Project repository was created from Code Institute template then cloned to my computer using VS code. Changes were continuously pushed back up to Github and then deployed using Github pages. <br>
 Link to live website: [PP1 Strawberry Lovers](https://niclo1337.github.io/pp1-strawberry-lovers/index.html)
+
 ## Credits
 
 ### Content
