@@ -23,7 +23,7 @@ Intro
 
 ### Colours
 
-Colour scheme is centered around Strawberry red.
+Colour scheme is centered around strawberry red. From very light red from deep inside the strawberry to the dark red soil where the strawberry plants thrive.
 
 ![Colour scheme](https://res.cloudinary.com/dmntcacug/image/upload/v1693423544/colour-scheme_lklpsl.jpg)
 
@@ -36,17 +36,18 @@ When choosing font it was important to find one that sets the correct tone. Chos
 
 ### Images
 
-Images chosen to either happy people or beautiful strawberries. Also a variety of different types of images was chosen to reflect the big variety of members in the community. All with the intention to elicit a positive response from user.
+Images chosen to either show happy people with strawberries or beautiful delicious strawberries. Also a variety of different types of images was chosen to reflect the big variety of members in the community. All with the intention to elicit a positive response from user.
 
 ### Wireframes
 
-Initial wireframes sketch with 2 basic sketch designs.
+Initial wireframes sketch with 2 basic sketch designs. Final design has many improvements from the initial ideas.
 <details><summary>Screenshot of wireframes</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693413298/Wireframes_r9qpuo.png" alt="initial wireframe design sketches" width="600"/></p> </details>
+
 
 
 ### Accessiblity
 
-Semantic HTML is used to aid people with with dissabilities such as visual impairment and  alt text is used for all images so it can be read by screen reader. Semantic HTML also helps with search engines optimization so the correct users can find this site and find it useful.<br>
+Semantic HTML is used to aid people with with dissabilities such as visual impairment and  alternative text is used for all images so it can be read by screen reader. Semantic HTML also helps with search engines optimization so the right users can find this site and find it useful.<br>
 All pages are designed to be responsive to different screen sizes to accomodate users with different preferred devices.
 
 <details><summary>Screenshot examples of responsive behaviour from mobile to tablet to computer</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693429767/accessibility-example_uooedv.jpg" alt="examples of responsive behaviour" width="600"/></p> </details>
@@ -64,7 +65,7 @@ The welcome image is the first thing a new user sees so very important to set th
 
 ### The navigation bar
 
-The navigation bar is avalible on every page and always looks the same to make it easier for user to navigate. It is set to sticky position, so it is always visible to the user when scrolling down. This removes the need for any "back to top" buttons.
+The navigation bar is avalible on every page and always looks the same. Consistency makes it easier for user to navigate. It's position is set to sticky, this is so it will always visible to the user when scrolling down. This removes the need for any "back to top" buttons or additional navigation.
 
 <details><summary>Screenshot of navigation bar</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693424680/feature-nav-bar_j8tdvp.jpg" alt="navigation bar" width="600"/></p> </details>
 
@@ -98,14 +99,14 @@ The gallery page is where user can see images uploaded by members of the communi
 
 ### The About us page
 
-The about us section is where the user learns more about the community and also features a form where the user is given the option to join as a member. 
+The about us section is where the user learns more about the community and also features a form where the user is given the option to join as a member. The form has required fields to help user not to forget to input important information. The field for "Favorit seed" is optional because not all users will have their favorite yet.
 
 <details><summary>Screenshot of About us page</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693427885/feature-about-us_ydinwg.jpg" alt="about us page" width="600"/></p> </details>
 
 
 ### The footer
 
-The footer section has a simple design featuring icons to social media sites. Since icons are used instead of text, aria-labels are used so screen readers know what links are for.
+The footer section has a simple design featuring icons to popular well known social media sites. Since icons are used instead of text, aria-labels were added so screen readers can know what links are for.
 
 <details><summary>Screenshot of the footer</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693428440/feature-footer_silaam.jpg" alt="the footer" width="600"/></p> </details>
 
@@ -133,10 +134,8 @@ The footer section has a simple design featuring icons to social media sites. Si
 - Favicon.io
 - VS Code
 - Mycolor.space
-- Compressnow
-- Zamzar 
 - w3schools
-- Birme
+- Birme (brilliant image to webp converter)
 
 ## Testing
 
@@ -150,7 +149,7 @@ Validated through https://jigsaw.w3.org/css-validator/validator and passed
 
 ### Lighthouse testing
 
-Used lighthouse to test performance, accessibility, best practices and search engine optimization of the website. Each page was tested individually and have various scores.
+Used lighthouse to test performance, accessibility, best practices and search engine optimization of the website. Each page was tested individually and had various scores.
 
 
 #### Main page
@@ -180,6 +179,11 @@ Initial test result:
 Result after optimization:
 
 
+#### Improvements
+Different tactics were used to improve the scores. 
+- Converting images from jpg to webp format to dramatically reduce the file size.
+- 
+
 
 ### Manual testing
 
@@ -188,10 +192,10 @@ Result after optimization:
 
 ### Solved bugs
 
-- Form submittion not working on deployed website, error code 405.
+- Form submittion not working on deployed website, returned error code 405.
 <br> Solution: Changed form method from POST to GET.
 - Main content section colums "flexing apart" when increasing screen width.
-<br> Solution: Increase max-width of columns and decrease max-width of flex container.
+<br> Solution: Increase max-width of columns combined with decrease max-width of flex container.
 
 
 
@@ -204,6 +208,8 @@ Result after optimization:
 ## Deployment
 Project repository was created from Code Institute template then cloned to my computer using VS code. Changes were continuously pushed back up to Github and then deployed using Github pages. <br>
 Link to live website: [PP1 Strawberry Lovers](https://niclo1337.github.io/pp1-strawberry-lovers/index.html)
+
+
 
 ## Credits
 
@@ -256,8 +262,3 @@ Photo by Efrem  Efre : [link to image](https://www.pexels.com/photo/strawberries
 
 - Re-watched this video to make sticky positioning work:
 [The Forgotten CSS Position](https://www.youtube.com/watch?v=NzjU1GmKosQ)
-
-
-
-
-[Learn CSS Position In 9 Minutes](https://www.youtube.com/watch?v=jx5jmI0UlXU&t=18s)
