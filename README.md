@@ -27,11 +27,14 @@ Intro
 
 Colour scheme is centered around Strawberry red.
 
+![Colour scheme](https://res.cloudinary.com/dmntcacug/image/upload/v1693423544/colour-scheme_lklpsl.jpg)
 
 
 ### Typography
 
 When choosing font it was important to find one that sets the correct tone. Chosen fonts are fun and give an amateur feel. This is not a professional website, it is a fun and friendly community and the font had to reflect that.
+- Shantell Sans is used for headings (sans-serif as backup font)
+- Bricolage Grotesque is used for paragraphs (sans-serif as backup font)
 
 ### Images
 
