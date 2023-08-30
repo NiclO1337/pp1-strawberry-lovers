@@ -3,19 +3,30 @@
 ![Amiresponsive image](https://res.cloudinary.com/dmntcacug/image/upload/v1693427142/Amiresponsive_aeblsa.jpg)
 
 
-Strawberry lovers is a website for an online community who wants to help people be more successful when growing their own strawberries.
-
-This site is not only targeted towards people who are already growing strawberries and want better results but also people who are curious about how to get started. Of course regular strawberry lovers who don't want to grow themselves are also welcome! Perhaps they find this site because of the delicious recipes or they are looking for a fun and friendly community to join.
-
 Link to live website: [PP1 Strawberry Lovers](https://niclo1337.github.io/pp1-strawberry-lovers/index.html)
 
 
 
 ## User Experience (UX)
 
-Intro
+Strawberry lovers is a website for an online community who wants to help people be more successful when growing their own strawberries.
+
+This site is not only targeted towards people who are already growing strawberries and want better results but also people who are curious about how to get started. Of course regular strawberry lovers who don't want to grow themselves are also welcome! Perhaps they find this site because of the delicious recipes or they are looking for a fun and friendly community to join.
 
 ### User stories
+
+#### Community goals
+- Help people get better results when growing strawberries
+- Expand their community with more members
+- Create a welcoming website that makes users happy and want to return
+- Design a website that can be displayed well on different devices
+- Make an accessible website so everyone can enjoy it
+
+#### User goals
+- Learn how to grow strawberries
+- Learn new tips and tricks to improve the quality and quantity of their crop
+- Find new and exiting recipes to try
+- Make new friends from all around the world with common interests
 
 
 
