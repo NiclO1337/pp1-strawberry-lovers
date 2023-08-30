@@ -4,13 +4,42 @@ Strawberry lovers is a website for an online community who wants to help people 
 
 This site is not only targeted towards people who are already growing strawberries and want better results but also people who are curious about how to get started. Of course regular strawberry lovers who don't want to grow themselves are also welcome! Perhaps they find this site because of the delicious recipes or they are looking for a fun and friendly community to join.
 
+TODO add: Image of how it looks on different screens
 
 TODO add: Image of how it looks on different screens
 
-## Features
+
+Link to live website: [PP1 Strawberry Lovers](https://niclo1337.github.io/pp1-strawberry-lovers/index.html)
+
+
+
+## User Experience (UX)
+
+Intro
+
+### User stories
+
+
+
+## Design
+
+### Colours
+
+
+
+### Typography
+
+### Images
+
+### Wireframes
 
 Initial wireframes sketch with 2 basic sketch designs.
 <details><summary>Wireframes</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693413298/Wireframes_r9qpuo.png" alt="drawing" width="600"/></p> </details>
+
+
+
+## Features
+
 
 
 <br>
@@ -19,6 +48,10 @@ Initial wireframes sketch with 2 basic sketch designs.
 TODO add: list with features
 
 - The welcome image
+
+
+https://res.cloudinary.com/dmntcacug/image/upload/v1693413997/Feature-welcome_yvkam5.jpg
+
 
 - The navigation bar
 - The Main content
