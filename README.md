@@ -83,18 +83,25 @@ The main content features easy to read text divided into categories and sections
 <details><summary>Screenshot of main content</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693426007/feature-main-content_yty0vs.jpg" alt="main content" width="600"/></p> </details>
 
 
-### The About us page
-
-The about us section is where the user learns more about the community and is given the option to join as a member. 
-
-<details><summary>Screenshot of about us page</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693427885/feature-about-us_ydinwg.jpg" alt="about us page" width="600"/></p> </details>
-
-
 ### The recipe section
 
 Main content features a recipe section with an embeded youtube video with recipes from around the world.
 
 <details><summary>Screenshot of the recipe section</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693430346/feature-recipes_lnvarq.jpg" alt="recipe section" width="600"/></p> </details>
+
+
+### The Gallery page
+
+The gallery page is where user can see images uploaded by members of the community. Shows user what kind of members the community and is inspired to grow, to eat and to join.
+
+<details><summary>Screenshot of the Gallery page</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693431021/feature-gallery_oaforw.jpg" alt="gallery page" width="600"/></p> </details>
+
+### The About us page
+
+The about us section is where the user learns more about the community and also features a form where the user is given the option to join as a member. 
+
+<details><summary>Screenshot of About us page</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693427885/feature-about-us_ydinwg.jpg" alt="about us page" width="600"/></p> </details>
+
 
 ### The footer
 
