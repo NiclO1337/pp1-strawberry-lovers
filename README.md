@@ -83,7 +83,9 @@ The main content features easy to read text divided into categories and sections
 
 ### The About us section
 
-The about us section is where the user learns more about the community and is given the option to join as a member.
+The about us section is where the user learns more about the community and is given the option to join as a member. 
+
+<details><summary>Screenshot of about us page</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693427885/feature-about-us_ydinwg.jpg" alt="drawing" width="600"/></p> </details>
 
 
 ### The footer
