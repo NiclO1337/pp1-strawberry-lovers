@@ -1,24 +1,33 @@
 # Strawberry lovers
 
-TODO add: Information about the page
+Strawberry lovers is a website for an online community who wants to help people be more successful when growing their own strawberries.
 
-TODO add: Why the page is built
+This site is not only targeted towards people who are already growing strawberries and want better results but also people who are curious about how to get started. Of course regular strawberry lovers who don't want to grow themselves are also welcome! Perhaps they find this site because of the delicious recipes or they are looking for a fun and friendly community to join.
+
 
 TODO add: Image of how it looks on different screens
 
 ## Features
 
 Initial wireframes sketch with 2 basic sketch designs.
-![Wireframes](assets/images/Wireframes.png)
+<details><summary>Wireframes</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693413298/Wireframes_r9qpuo.png" alt="drawing" width="600"/></p> </details>
+
+
+<br>
 
 
 TODO add: list with features
 
 - The welcome image
+
 - The navigation bar
 - The Main content
 - The About us section
 - The footer
+
+## Future features
+- Make gallery images larger when clicked
+- Add multiple languages to be more accessible to people from different parts of the world.
 
 ## Testing
 
@@ -33,6 +42,7 @@ TODO add: list with features
 ### Unfixed bugs
 
 - HTML validation error from meta tag charset
+
 
 ## Technologies used
 
