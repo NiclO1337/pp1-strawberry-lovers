@@ -112,8 +112,9 @@ The footer section has a simple design featuring icons to social media sites. Si
 
 
 ## Future features
-- Make gallery images larger when clicked
+- Make gallery images larger when clicked.
 - Add multiple languages to be more accessible to people from different parts of the world.
+- Add forum for the members to discuss important topics and ask questions.
 
 
 ## Technologies used
