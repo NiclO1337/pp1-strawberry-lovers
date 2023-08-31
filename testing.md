@@ -73,8 +73,9 @@ Different tactics were used to improve the lighthouse scores.
 
 
 ### Manual testing
+<hr>
 
-#### Features
+### Features
 
 | Feature tested | Expected outcome | Pass / fail | 
 | --- | --- | --- |
@@ -83,36 +84,39 @@ Different tactics were used to improve the lighthouse scores.
 | Home | Clicking takes user to Home page | --- |
 | Gallery | Clicking takes user to Gallery page | --- 
 | About us | Clicking takes user to About us page | --- |
+| **Footer / Social media icons** | 
+| Facebook | Opens Facebook in new tab | --- | 
+| Twitter | Opens Twitter in new tab | --- | 
+| Instagram | Opens Instagram in new tab | --- | 
+| Youtube | Opens Youtube in new tab | --- | 
 | **Internal links on main page** |
 | Growing | Clicking takes user to Growing section | --- |
 | Greenhouse | Clicking takes user to Greenhouse section | --- |
 | Recipes | Clicking takes user to Recipes section | --- |
 | **Other features** |
+| Form submission | Clicking takes user to Welcome page  | --- |
+| Play recipe video | Clicking on video starts it | --- |
 
 
-#### Browser
+### Browser
 Website has been tested on Google chrome, Microsoft Edge and Safari.
 
 | Feature tested \  On browser | Google Chrome | Microsoft Edge | Safari | 
 | --- | --- | --- | --- |
-| **Header / navigation bar** | 
-| Logo | --- | --- | --- |
-| Home | --- | --- | --- |
-| Gallery | --- | --- | --- |
-| About us | --- | --- | --- |
-| **Internal links on main page** |
-| Growing | --- | --- | --- |
-| Greenhouse | --- | --- | --- |
-| Recipes | --- | --- | --- |
+| Click navigation links | --- | --- | --- |
+| Click social media icons |  --- | --- | --- |
+| Internal links on main page | --- | --- | --- |
 | **Other features** |
+| Form submission | --- | --- | --- |
+| Play recipe video | --- | --- | --- |
 
-
-
-
-
-
-#### Devices
+### Devices
 Manually tested on mobile device (Xiaomi 12), tablet (Samsung Galaxy tab S4) laptop and desktop computer.
+
+| Devices | 
+| --- | --- | --- | --- |
+Mobile phone 
+
 
 
 ## Bugs
