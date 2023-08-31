@@ -74,12 +74,28 @@ Different tactics were used to improve the lighthouse scores.
 
 ### Manual testing
 
+#### Features
+
+| Feature tested | Expected outcome | Pass / fail | 
+| --- | --- | --- |
+| **Header / navigation bar** | 
+| Logo | Clicking takes user to Home page | --- |
+| Home | Clicking takes user to Home page | --- |
+| Gallery | Clicking takes user to Gallery page | --- 
+| About us | Clicking takes user to About us page | --- |
+| **Internal links on main page** |
+| Growing | Clicking takes user to Growing section | --- |
+| Greenhouse | Clicking takes user to Greenhouse section | --- |
+| Recipes | Clicking takes user to Recipes section | --- |
+| **Other features** |
+
+
 #### Browser
 Website has been tested on Google chrome, Microsoft Edge and Safari.
 
 | Feature tested \  On browser | Google Chrome | Microsoft Edge | Safari | 
 | --- | --- | --- | --- |
-| **Header / navigation bar** | Expected result: clicking link takes user to different page
+| **Header / navigation bar** | 
 | Logo | --- | --- | --- |
 | Home | --- | --- | --- |
 | Gallery | --- | --- | --- |
