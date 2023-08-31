@@ -10,9 +10,16 @@ Link to live website: [PP1 Strawberry Lovers](https://niclo1337.github.io/pp1-st
 ## Table of contents
 
 
-
-
-
+* [Testing](#testing)
+    * [Automatic testing](#)
+        * [Validator testing](#validator-testing)
+        * [Lighthouse testing](#lighthouse-testing)
+    * [Manual testing](#manual-testing)
+        * [Browser](#browser)
+        * [Devices](#devices)
+    * [Bugs](#bugs)
+        * [Solved bugs](#solved-bugs)
+        * [Unfixed bugs](#unfixed-bugs)
 
 
 
