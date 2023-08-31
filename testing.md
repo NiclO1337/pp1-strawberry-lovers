@@ -158,5 +158,7 @@ Several media queries was created to make each feature responsive on different s
 
 ### Unfixed bugs
 
-- HTML validation error from from invisible javascript above meta tag charset="UTF-8"
+- HTML validation error from from invisible javascript above meta tag charset="UTF-8".
+More info after research: My computer adds javascript to the source code of the deployed website. This is not shown for other people.
+Temporart solution: Validate from written code instead of source code.
 
