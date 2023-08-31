@@ -77,10 +77,16 @@ Different tactics were used to improve the lighthouse scores.
 #### Browser
 Website has been tested on Google chrome, Microsoft Edge and Safari.
 
-| Browser \ buttons | Logo | Home | Galler | About us | Growing | Greenhouse | Recipes  |
-| Google Chrome | 
-| Microsoft Edge | 
-| Safari | 
+| Feature \ Browser | Google Chrome | Microsoft Edge | Safari | 
+| --- | --- | --- | --- |
+| Logo | --- | --- | --- |
+| Home | --- | --- | --- |
+| Gallery | --- | --- | --- |
+| About us | --- | --- | --- |
+| Growing | --- | --- | --- |
+| Greenhouse | --- | --- | --- |
+| Recipes | --- | --- | --- |
+
 
 
 #### Devices
