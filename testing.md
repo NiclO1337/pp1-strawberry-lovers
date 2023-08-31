@@ -39,30 +39,26 @@ Used lighthouse to test performance, accessibility, best practices and search en
 
 
 #### Main page
-Initial test result:
+Initial test result > result after optimization
 <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693434928/lighthouse-home-before_rhmdin.jpg" alt="Initial test result main page" width="300"/></p>
-
-Result after optimization:
 
 
 #### Gallery page
-Initial test result:
+Initial test result > result after optimization
 <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693434928/lighthouse-gallery-before_afzzag.jpg" alt="Initial test result gallery" width="300"/></p>
-
-Result after optimization:
 
 
 #### About us page
-Initial test result:
+Initial test result > result after optimization
 <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693434928/lighthouse-about-before_nm4i67.jpg" alt="Initial test result about us" width="300"/></p>
 
-Result after optimization:
+
 
 #### Welcome page
-Initial test result:
+Initial test result > result after optimization
 <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693434928/lighthouse-welcome-before_zay8dg.jpg" alt="Initial test result welcome page" width="300"/></p>
 
-Result after optimization:
+
 
 
 #### Improvements
