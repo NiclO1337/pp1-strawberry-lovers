@@ -639,13 +639,6 @@ footer {
     gap: 1.3rem;
   }
 
-  #fav-seeds,
-  #f-name,
-  #l-name,
-  #email {
-    width: auto;
-  }
-
   /* Welcome page */
   .welcome-section-style {
     padding: 1.5rem 1.7rem 1rem;
@@ -716,7 +709,7 @@ footer {
   .form-flex-child {
     flex: 0 1 30rem;
   }
-}
+
 
 /* Media query: 1200px and up (Desktop) */
 
@@ -779,6 +772,14 @@ footer {
 
   #photos img {
     padding: 0.5rem;
+  }
+
+  /* About page */
+  #fav-seeds,
+  #f-name,
+  #l-name,
+  #email {
+    width: auto;
   }
 
   /* Welcome page */
