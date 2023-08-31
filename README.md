@@ -24,9 +24,9 @@ Link to live website: [PP1 Strawberry Lovers](https://niclo1337.github.io/pp1-st
     * [The navigation bar](#the-navigation-bar)
     * [Links](#links)
     * [The main content](#the-main-content)
-    * [The recipe section](#the-recipe-section)
-    * [The About us page](#the-about-us-page)
+    * [The recipe section](#the-recipe-section)    
     * [The Gallery page](#the-gallery-page)
+    * [The About us page](#the-about-us-page)
     * [The Footer](#the-footer)
 * [Future features](#future-features)
 * [Technologies used](#technologies-used)
@@ -37,9 +37,6 @@ Link to live website: [PP1 Strawberry Lovers](https://niclo1337.github.io/pp1-st
 * [Credits](#credits)
     * [Content](#content)
     * [Media](#media)
-        * [Favicon](#favicon)
-        * [About us page](#about-us-page-1)
-        * [Welcome page](#welcome-page)
     * [Code](#code)
 
 
