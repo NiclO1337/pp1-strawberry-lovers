@@ -5,6 +5,42 @@
 
 Link to live website: [PP1 Strawberry Lovers](https://niclo1337.github.io/pp1-strawberry-lovers/index.html)
 
+<hr>
+
+## Table of contents
+
+* [User Experience (UX)](#user-experience-ux)
+    * [User stories](#user-stories)
+        * [Community goals](#community-goals)
+        * [User goals](#user-goals)
+* [Design](#design)
+    * [Colours](#colours)
+    * [Typography](#typography)
+    * [Images](#images)
+    * [Wireframes](#wireframes)
+    * [Accessiblity](#accessiblity)
+* [Features](#features)
+    * [The welcome image](#the-welcome-image)
+    * [The navigation bar](#the-navigation-bar)
+    * [Links](#links)
+    * [The main content](#the-main-content)
+    * [The recipe section](#the-recipe-section)
+    * [The About us page](#the-about-us-page)
+    * [The Gallery page](#the-gallery-page)
+    * [The Footer](#the-footer)
+* [Future features](#future-features)
+* [Technologies used](#technologies-used)
+    * [Languages](#languages)
+    * [Frameworks & Tools](#frameworks--tools)
+* [Testing](#testing)
+* [Deployment](#deployment)
+* [Credits](#credits)
+    * [Content](#content)
+    * [Media](#media)
+        * [Favicon](#favicon)
+        * [About us page](#about-us-page-1)
+        * [Welcome page](#welcome-page)
+    * [Code](#code)
 
 
 ## User Experience (UX)
