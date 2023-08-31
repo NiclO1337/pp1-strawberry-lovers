@@ -88,7 +88,7 @@ Images chosen to either show happy people with strawberries or beautiful delicio
 ### Wireframes
 
 Initial wireframes sketch with 2 basic sketch designs. Final design has many improvements from the initial ideas.
-<details><summary>Screenshot of wireframes</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693413298/Wireframes_r9qpuo.png" alt="initial wireframe design sketches" width="700"/></p> </details>
+<details><summary>Screenshot of wireframes</summary> <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693413298/Wireframes_r9qpuo.png" alt="initial wireframe design sketches" width="700"/></p> </details>
 
 
 
@@ -97,7 +97,7 @@ Initial wireframes sketch with 2 basic sketch designs. Final design has many imp
 Semantic HTML is used to aid people with with dissabilities such as visual impairment and  alternative text is used for all images so it can be read by screen reader. Semantic HTML also helps with search engines optimization so the right users can find this site and find it useful.<br>
 All pages are designed to be responsive to different screen sizes to accomodate users with different preferred devices.
 
-<details><summary>Screenshot examples of responsive behaviour from mobile to tablet to computer</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693429767/accessibility-example_uooedv.jpg" alt="examples of responsive behaviour" width="700"/></p> </details>
+<details><summary>Screenshot examples of responsive behaviour from mobile to tablet to computer</summary> <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693429767/accessibility-example_uooedv.jpg" alt="examples of responsive behaviour" width="700"/></p> </details>
 
 
 
@@ -107,14 +107,14 @@ All pages are designed to be responsive to different screen sizes to accomodate 
 
 The welcome image is the first thing a new user sees so very important to set the right tone and elicit the right feeling. Chosen image and text creates a welcoming feel and positive emotion.
 
-<details><summary>Screenshot of welcome image</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693413997/Feature-welcome_yvkam5.jpg" alt="welcome image" width="700"/></p> </details>
+<details><summary>Screenshot of welcome image</summary> <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693413997/Feature-welcome_yvkam5.jpg" alt="welcome image" width="700"/></p> </details>
 
 
 ### The navigation bar
 
 The navigation bar is avalible on every page and always looks the same. Consistency makes it easier for user to navigate. It's position is set to sticky, this is so it will always visible to the user when scrolling down. This removes the need for any "back to top" buttons or additional navigation.
 
-<details><summary>Screenshot of navigation bar</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693424680/feature-nav-bar_j8tdvp.jpg" alt="navigation bar" width="700"/></p> </details>
+<details><summary>Screenshot of navigation bar</summary> <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693424680/feature-nav-bar_j8tdvp.jpg" alt="navigation bar" width="700"/></p> </details>
 
 
 ### Links
@@ -128,34 +128,34 @@ All links have mouse over effects to give instant feedback to user and indicate 
 
 The main content features easy to read text divided into categories and sections. Sections are numbered to make it easier to navigate when content splits into 2 columns on larger screens.
 
-<details><summary>Screenshot of main content</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693426007/feature-main-content_yty0vs.jpg" alt="main content" width="700"/></p> </details>
+<details><summary>Screenshot of main content</summary> <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693426007/feature-main-content_yty0vs.jpg" alt="main content" width="700"/></p> </details>
 
 
 ### The recipe section
 
 Main content features a recipe section with an embeded youtube video with recipes from around the world.
 
-<details><summary>Screenshot of the recipe section</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693430346/feature-recipes_lnvarq.jpg" alt="recipe section" width="700"/></p> </details>
+<details><summary>Screenshot of the recipe section</summary> <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693430346/feature-recipes_lnvarq.jpg" alt="recipe section" width="700"/></p> </details>
 
 
 ### The Gallery page
 
 The gallery page is where user can see images uploaded by members of the community. Shows user what kind of members the community and is inspired to grow, to eat and to join.
 
-<details><summary>Screenshot of the Gallery page</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693431021/feature-gallery_oaforw.jpg" alt="gallery page" width="700"/></p> </details>
+<details><summary>Screenshot of the Gallery page</summary> <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693431021/feature-gallery_oaforw.jpg" alt="gallery page" width="700"/></p> </details>
 
 ### The About us page
 
 The about us section is where the user learns more about the community and also features a form where the user is given the option to join as a member. The form has required fields to help user not to forget to input important information. The field for "Favorit seed" is optional because not all users will have their favorite yet.
 
-<details><summary>Screenshot of About us page</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693427885/feature-about-us_ydinwg.jpg" alt="about us page" width="700"/></p> </details>
+<details><summary>Screenshot of About us page</summary> <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693427885/feature-about-us_ydinwg.jpg" alt="about us page" width="700"/></p> </details>
 
 
 ### The footer
 
 The footer section has a simple design featuring icons to popular well known social media sites. Since icons are used instead of text, aria-labels were added so screen readers can know what links are for.
 
-<details><summary>Screenshot of the footer</summary> <p align="center"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693428440/feature-footer_silaam.jpg" alt="the footer" width="700"/></p> </details>
+<details><summary>Screenshot of the footer</summary> <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693428440/feature-footer_silaam.jpg" alt="the footer" width="700"/></p> </details>
 
 
 
