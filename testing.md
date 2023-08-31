@@ -96,22 +96,22 @@ Different tactics were used to improve the lighthouse scores.
 | Feature tested | Expected outcome | Pass / fail | 
 | --- | --- | --- |
 | **Header / navigation bar** | 
-| Logo | Clicking takes user to Home page | --- |
-| Home | Clicking takes user to Home page | --- |
-| Gallery | Clicking takes user to Gallery page | --- 
-| About us | Clicking takes user to About us page | --- |
+| Logo | Clicking takes user to Home page | Pass |
+| Home | Clicking takes user to Home page | Pass |
+| Gallery | Clicking takes user to Gallery page | Pass  |
+| About us | Clicking takes user to About us page | Pass |
 | **Footer / Social media icons** | 
-| Facebook | Opens Facebook in new tab | --- | 
-| Twitter | Opens Twitter in new tab | --- | 
-| Instagram | Opens Instagram in new tab | --- | 
-| Youtube | Opens Youtube in new tab | --- | 
+| Facebook | Opens Facebook in new tab | Pass | 
+| Twitter | Opens Twitter in new tab | Pass | 
+| Instagram | Opens Instagram in new tab | Pass | 
+| Youtube | Opens Youtube in new tab | Pass | 
 | **Internal links on main page** |
-| Growing | Clicking takes user to Growing section | --- |
-| Greenhouse | Clicking takes user to Greenhouse section | --- |
-| Recipes | Clicking takes user to Recipes section | --- |
+| Growing | Clicking takes user to Growing section | Pass |
+| Greenhouse | Clicking takes user to Greenhouse section | Pass |
+| Recipes | Clicking takes user to Recipes section | Pass |
 | **Other features** |
-| Form submission | Clicking takes user to Welcome page  | --- |
-| Play recipe video | Clicking on video starts it | --- |
+| Form submission | Clicking takes user to Welcome page  | Pass |
+| Play recipe video | Clicking on video starts it | Pass |
 
 
 ### Browser
@@ -119,12 +119,12 @@ Website has been tested on Google chrome, Microsoft Edge and Safari.
 
 | Feature tested \  On browser | Google Chrome | Microsoft Edge | Safari | 
 | --- | --- | --- | --- |
-| Click navigation links | --- | --- | --- |
-| Click social media icons |  --- | --- | --- |
-| Internal links on main page | --- | --- | --- |
+| Click navigation links | Pass | Pass | --- |
+| Click social media icons |  Pass | Pass | --- |
+| Internal links on main page | Pass | Pass | --- |
 | **Other features** |
-| Form submission | --- | --- | --- |
-| Play recipe video | --- | --- | --- |
+| Form submission | Pass | Pass | --- |
+| Play recipe video | Pass | Pass | --- |
 
 ### Devices
 Manually tested on mobile device (Xiaomi 12), tablet (Samsung Galaxy tab S4) laptop and desktop computer.
