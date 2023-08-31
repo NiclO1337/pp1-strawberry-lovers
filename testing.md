@@ -27,6 +27,8 @@ Link to live website: [PP1 Strawberry Lovers](https://niclo1337.github.io/pp1-st
 
 ## Testing
 
+### Automatic testing
+
 ### Validator Testing
 
 - HTML
@@ -66,19 +68,18 @@ Initial test result > result after optimization
 #### Improvements
 Different tactics were used to improve the lighthouse scores. 
 - Converting images from jpg to webp format to drastically reduce the file size.
-- 
+
 
 
 #### Left to improve
-- Optimizing embeded youtube video with
+- Optimizing embeded youtube video and other assets with
 "Lazy load third-party resources with facades".
 
 
 
 
 
-### Manual testing
-<hr>
+## Manual testing
 
 ### User goals
 
