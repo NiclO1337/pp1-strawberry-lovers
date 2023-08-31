@@ -115,16 +115,16 @@ Different tactics were used to improve the lighthouse scores.
 
 
 ### Browser
-Website has been tested on Google chrome, Microsoft Edge and Safari.
+Website has been tested on Google chrome, Microsoft Edge, Safari and Samsung Internet Browser.
 
-| Feature tested \  On browser | Google Chrome | Microsoft Edge | Safari | 
-| --- | --- | --- | --- |
-| Click navigation links | Pass | Pass | --- |
-| Click social media icons |  Pass | Pass | --- |
-| Internal links on main page | Pass | Pass | --- |
+| Feature tested \  On browser | Google Chrome | Microsoft Edge | Safari | Samsung Internet  |
+| --- | --- | --- | --- | --- |
+| Click navigation links | Pass | Pass | --- | --- |
+| Click social media icons |  Pass | Pass | --- | --- |
+| Internal links on main page | Pass | Pass | --- | --- |
 | **Other features** |
-| Form submission | Pass | Pass | --- |
-| Play recipe video | Pass | Pass | --- |
+| Form submission | Pass | Pass | --- | --- |
+| Play recipe video | Pass | Pass | --- | --- |
 
 ### Devices
 Manually tested on mobile device (Xiaomi 12), tablet (Samsung Galaxy tab S4) laptop and desktop computer.
@@ -149,6 +149,9 @@ Several media queries was created to make each feature responsive on different s
 <br> Solution: Changed form method from POST to GET.
 - Main content section colums "flexing apart" when increasing screen width.
 <br> Solution: Increase max-width of columns combined with decrease max-width of flex container.
+- About page did not look as intended on tablet in hoizontal layout. But not visible on chrome developer tools.
+<br>Solution: Forced input fields to be smaller on 450px screen and then back to auto width on 768px screen.
+
 
 
 
