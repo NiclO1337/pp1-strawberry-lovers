@@ -42,23 +42,23 @@ Used lighthouse to test performance, accessibility, best practices and search en
 
 #### Main page
 Initial test result > result after optimization
-<p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693434928/lighthouse-home-before_rhmdin.jpg" alt="Initial test result main page" width="300"/></p>
+<p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693492117/lighthouse-home-before-after_pyymmp.jpg" alt="Initial test result main page" width="300"/></p>
 
 
 #### Gallery page
 Initial test result > result after optimization
-<p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693434928/lighthouse-gallery-before_afzzag.jpg" alt="Initial test result gallery" width="300"/></p>
+<p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693492120/lighthouse-gallery-before-after_ff9xan.jpg" alt="Initial test result gallery" width="300"/></p>
 
 
 #### About us page
 Initial test result > result after optimization
-<p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693434928/lighthouse-about-before_nm4i67.jpg" alt="Initial test result about us" width="300"/></p>
+<p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693492119/lighthouse-about-before-after_np45qx.jpg" alt="Initial test result about us" width="300"/></p>
 
 
 
 #### Welcome page
 Initial test result > result after optimization
-<p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693434928/lighthouse-welcome-before_zay8dg.jpg" alt="Initial test result welcome page" width="300"/></p>
+<p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693492118/lighthouse-welcome-before-after_vvjnlz.jpg" alt="Initial test result welcome page" width="300"/></p>
 
 
 
@@ -70,6 +70,9 @@ Different tactics were used to improve the lighthouse scores.
 
 
 #### Left to improve
+- Optimizing embeded youtube video with
+"Lazy load third-party resources with facades".
+
 
 
 
