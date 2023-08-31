@@ -187,7 +187,30 @@ Testing made in seperate file [testing.md](testing.md)
 
 
 ## Deployment
-Project repository was created from Code Institute template then cloned to my computer using VS code. Changes were continuously pushed back up to Github and then deployed using Github pages. <br>
+Project repository was created from Code Institute template then cloned to my computer using VS code. Changes were continuously pushed back up to Github for source control.<br>
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+- In the GitHub repository, navigate to the Settings tab
+- From the source section drop-down menu, select the Main Branch
+- Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+### Local development
+
+#### Forking the project for local development
+
+- Log in (or sign up) to Github.
+- Go to the repository for this project, [link to repository](https://github.com/NiclO1337/pp1-strawberry-lovers)
+- Click the Fork button in the top right corner.
+
+#### Cloning the project for local development
+
+- Log in (or sign up) to Github.
+- Go to the repository for this project, [link to repository](https://github.com/NiclO1337/pp1-strawberry-lovers)
+- Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+Type 'git clone' into the terminal and then paste the link you copied in step 3. 
+- Press enter.
+
+
 Link to live website: [PP1 Strawberry Lovers](https://niclo1337.github.io/pp1-strawberry-lovers/index.html)
 
 
