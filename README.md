@@ -42,9 +42,9 @@ Link to live website: [PP1 Strawberry Lovers](https://niclo1337.github.io/pp1-st
 
 ## User Experience (UX)
 
-Strawberry lovers is a website for an online community who wants to help people be more successful when growing their own strawberries.
+Strawberry Lovers is a website for an online community who wants to help people be more successful when growing their own strawberries.
 
-This site is not only targeted towards people who are already growing strawberries and want better results but also people who are curious about how to get started. Of course regular strawberry lovers who don't want to grow themselves are also welcome! Perhaps they find this site because of the delicious recipes or they are looking for a fun and friendly community to join.
+This site is not only targeted towards people who are already growing strawberries and want better results but also people who are curious about how to get started. Of course, regular strawberry lovers who don't want to grow themselves are also welcome! Perhaps they find this site because of the delicious recipes or they are looking for a fun and friendly community to join.
 
 ### User stories
 
@@ -58,7 +58,7 @@ This site is not only targeted towards people who are already growing strawberri
 #### User goals
 - Learn how to grow strawberries
 - Learn new tips and tricks to improve the quality and quantity of their crop
-- Find new and exiting recipes to try
+- Find new and exciting recipes to try
 - Make new friends from all around the world with common interests
 
 
@@ -74,27 +74,27 @@ Colour scheme is centered around strawberry red. From very light red from deep i
 
 ### Typography
 
-When choosing font it was important to find one that sets the correct tone. Chosen fonts are fun and give an amateur feel. This is not a professional website, it is a fun and friendly community and the font had to reflect that.
-- Shantell Sans is used for headings (sans-serif as backup font)
-- Bricolage Grotesque is used for paragraphs (sans-serif as backup font)
+When choosing fonts it was important to find one that sets the correct tone. The chosen fonts are fun and give an amateur feel. This is not a professional website, it is a fun and friendly community and the font had to reflect that.
+- Shantell Sans is used for headings (sans-serif as a backup font)
+- Bricolage Grotesque is used for paragraphs (sans-serif as a backup font)
 
 ### Images
 
-Images chosen to either show happy people with strawberries or beautiful delicious strawberries. Also a variety of different types of images was chosen to reflect the big variety of members in the community. All with the intention to elicit a positive response from user.
+Images were chosen to either show happy people with strawberries or beautiful delicious strawberries. Also, a variety of different types of images was chosen to reflect the wide variety of members in the community. All to elicit a positive response from the user.
 
 ### Wireframes
 
-Initial wireframes sketch with 2 basic sketch designs. Final design has many improvements from the initial ideas.
+Initial wireframes sketch with 2 basic sketch designs. The final design has many improvements from the initial ideas.
 <details><summary>Screenshot of wireframes</summary> <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693413298/Wireframes_r9qpuo.png" alt="initial wireframe design sketches" width="700"/></p> </details>
 
 
 
-### Accessiblity
+### Accessibility
 
-Semantic HTML is used to aid people with with dissabilities such as visual impairment and  alternative text is used for all images so it can be read by screen reader. Semantic HTML also helps with search engines optimization so the right users can find this site and find it useful.<br>
-All pages are designed to be responsive to different screen sizes to accomodate users with different preferred devices.
+Semantic HTML is used to aid people with dissabilities such as visual impairment and alternative text is used for all images so it can be read by screen readers. Semantic HTML also helps with search engine optimization so the right users can find this site and find it useful.<br>
+All pages are designed to be responsive to different screen sizes to accommodate users with different preferred devices.
 
-<details><summary>Screenshot examples of responsive behaviour from mobile to tablet to computer</summary> <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693429767/accessibility-example_uooedv.jpg" alt="examples of responsive behaviour" width="700"/></p> </details>
+<details><summary>Screenshot examples of responsive behavior from mobile to tablet to computer</summary> <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693429767/accessibility-example_uooedv.jpg" alt="examples of responsive behavior" width="700"/></p> </details>
 
 
 
@@ -102,55 +102,55 @@ All pages are designed to be responsive to different screen sizes to accomodate 
 
 ### The welcome image
 
-The welcome image is the first thing a new user sees so very important to set the right tone and elicit the right feeling. Chosen image and text creates a welcoming feel and positive emotion.
+The welcome image is the first thing a new user sees so very important to set the right tone and elicit the right feeling. Chosen image and text create a welcoming feel and positive emotion.
 
 <details><summary>Screenshot of welcome image</summary> <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693413997/Feature-welcome_yvkam5.jpg" alt="welcome image" width="700"/></p> </details>
 
 
 ### The navigation bar
 
-The navigation bar is avalible on every page and always looks the same. Consistency makes it easier for user to navigate. It's position is set to sticky, this is so it will always visible to the user when scrolling down. This removes the need for any "back to top" buttons or additional navigation.
+The navigation bar is available on every page and always looks the same. Consistency makes it easier for users to navigate. Its position is set to sticky, this is so it will always visible to the user when scrolling down. This removes the need for any "back to top" buttons or additional navigation.
 
 <details><summary>Screenshot of navigation bar</summary> <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693424680/feature-nav-bar_j8tdvp.jpg" alt="navigation bar" width="700"/></p> </details>
 
 
 ### Links
 
-All links have mouse over effects to give instant feedback to user and indicate that it is a clickable link. Navigation bar links has a border underneath the active one to show user which page is currently displayed.
+All links have mouse-over effects to give instant feedback to the user and indicate that it is a clickable link. Navigation bar links have a border underneath the active one to show the user which page is currently displayed.
 
 <details><summary>Screenshot of links with hover effect and which one is active</summary> <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693426011/feature-hover-effect_jmqsy3.jpg" alt="links with hover and active effect" width="300"/></p> </details>
 
 
 ### The main content
 
-The main content features easy to read text divided into categories and sections. Sections are numbered to make it easier to navigate when content splits into 2 columns on larger screens.
+The main content features easy-to-read text divided into categories and sections. Sections are numbered to make it easier to navigate when content splits into 2 columns on larger screens.
 
 <details><summary>Screenshot of main content</summary> <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693426007/feature-main-content_yty0vs.jpg" alt="main content" width="700"/></p> </details>
 
 
 ### The recipe section
 
-Main content features a recipe section with an embeded youtube video with recipes from around the world.
+Main content features a recipe section with an embedded YouTube video with recipes from around the world.
 
 <details><summary>Screenshot of the recipe section</summary> <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693430346/feature-recipes_lnvarq.jpg" alt="recipe section" width="700"/></p> </details>
 
 
 ### The Gallery page
 
-The gallery page is where user can see images uploaded by members of the community. Shows user what kind of members the community and is inspired to grow, to eat and to join.
+The gallery page is where users can see images uploaded by members of the community. Shows users what kind of members the community has and is inspired to grow, to eat, and to join.
 
 <details><summary>Screenshot of the Gallery page</summary> <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693431021/feature-gallery_oaforw.jpg" alt="gallery page" width="700"/></p> </details>
 
-### The About us page
+### The About Us page
 
-The about us section is where the user learns more about the community and also features a form where the user is given the option to join as a member. The form has required fields to help user not to forget to input important information. The field for "Favorit seed" is optional because not all users will have their favorite yet.
+The About Us section is where the user learns more about the community and also features a form where the user is given the option to join as a member. The form has required fields to help users not to forget to input important information. The field for "Favorit seed" is optional because not all users will have their favorite yet.
 
 <details><summary>Screenshot of About us page</summary> <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693427885/feature-about-us_ydinwg.jpg" alt="about us page" width="700"/></p> </details>
 
 
 ### The footer
 
-The footer section has a simple design featuring icons to popular well known social media sites. Since icons are used instead of text, aria-labels were added so screen readers can know what links are for.
+The footer section has a simple design featuring icons for popular social media sites. Since icons are used instead of text, aria labels were added so screen readers can know what links are for.
 
 <details><summary>Screenshot of the footer</summary> <p align="left"><img src="https://res.cloudinary.com/dmntcacug/image/upload/v1693428440/feature-footer_silaam.jpg" alt="the footer" width="700"/></p> </details>
 
@@ -159,7 +159,7 @@ The footer section has a simple design featuring icons to popular well known soc
 ## Future features
 - Make gallery images larger when clicked.
 - Add multiple languages to be more accessible to people from different parts of the world.
-- Add forum for the members to discuss important topics and ask questions.
+- Add a forum for the members to discuss important topics and ask questions.
 
 
 ## Technologies used
@@ -183,11 +183,11 @@ The footer section has a simple design featuring icons to popular well known soc
 
 ## Testing
 
-Testing made in seperate file [testing.md](testing.md)
+Testing made in separate file [testing.md](testing.md)
 
 
 ## Deployment
-Project repository was created from Code Institute template then cloned to my computer using VS code. Changes were continuously pushed back up to Github for source control.<br>
+The project repository was created from the Code Institute template and then cloned to my computer using VS code. Changes were continuously pushed back up to Github for source control.<br>
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 - In the GitHub repository, navigate to the Settings tab
 - From the source section drop-down menu, select the Main Branch
@@ -205,7 +205,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 
 - Log in (or sign up) to Github.
 - Go to the repository for this project, [link to repository](https://github.com/NiclO1337/pp1-strawberry-lovers)
-- Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+- Click on the code button, select whether you would like to clone with HTTPS, SSH, or GitHub CLI, and copy the link shown.
 Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 Type 'git clone' into the terminal and then paste the link you copied in step 3. 
 - Press enter.
@@ -257,7 +257,7 @@ Photo by Efrem  Efre : [link to image](https://www.pexels.com/photo/strawberries
 
 - Some of the code from the Love Running walkthrough project was used and adapted.
 
-- Was inspired by this beautiful project from a fellow classmate, Sarah-Lee Bester, both from code written and also design. Link to project: [Bro-code](https://taalverena.github.io/bro-code/index.html)
+- I was inspired by this beautiful project by a fellow classmate, Sarah-Lee Bester, both from code writing and design. Link to project: [Bro-code](https://taalverena.github.io/bro-code/index.html)
 
 - Took inspiration from Kera Cudmore's very comprehensive README guide: [Readme examples.](https://github.com/kera-cudmore/readme-examples)
 

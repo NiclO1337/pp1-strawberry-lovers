@@ -41,7 +41,7 @@ Validated through https://jigsaw.w3.org/css-validator/validator and passed
 
 ### Lighthouse testing
 
-Used lighthouse to test performance, accessibility, best practices and search engine optimization of the website. Each page was tested individually and had various scores.
+Used lighthouse to test performance, accessibility, best practices, and search engine optimization of the website. Each page was tested individually and had various scores.
 
 
 #### Main page
@@ -74,7 +74,7 @@ Different tactics were used to improve the lighthouse scores.
 
 
 #### Left to improve
-- Optimizing embeded youtube video and other assets with
+- Optimizing embedded YouTube video and other assets with
 "Lazy load third-party resources with facades".
 
 
@@ -89,7 +89,7 @@ Different tactics were used to improve the lighthouse scores.
 | --- | --- | 
 | Learn how to grow strawberries | Add content to main page about growing strawberries| 
 | Learn new tips and tricks | Add more tips and tricks to main content|
-| Find new and exiting recipes to try | Add recipe section to main page |
+| Find new and exciting recipes to try | Add recipe section to main page |
 | Make new friends from all around the world | Add feature with option to join the community  | 
 
 
@@ -98,26 +98,26 @@ Different tactics were used to improve the lighthouse scores.
 | Feature tested | Expected outcome | Pass / fail | 
 | --- | --- | --- |
 | **Header / navigation bar** | 
-| Logo | Clicking takes user to Home page | Pass |
-| Home | Clicking takes user to Home page | Pass |
-| Gallery | Clicking takes user to Gallery page | Pass  |
-| About us | Clicking takes user to About us page | Pass |
+| Logo | Clicking takes the user to the Home page | Pass |
+| Home | Clicking takes the user to the Home page | Pass |
+| Gallery | Clicking takes the user to the Gallery page | Pass  |
+| About us | Clicking takes the user to the About us page | Pass |
 | **Footer / Social media icons** | 
 | Facebook | Opens Facebook in new tab | Pass | 
 | Twitter | Opens Twitter in new tab | Pass | 
 | Instagram | Opens Instagram in new tab | Pass | 
 | Youtube | Opens Youtube in new tab | Pass | 
 | **Internal links on main page** |
-| Growing | Clicking takes user to Growing section | Pass |
-| Greenhouse | Clicking takes user to Greenhouse section | Pass |
-| Recipes | Clicking takes user to Recipes section | Pass |
+| Growing | Clicking takes the user to the Growing section | Pass |
+| Greenhouse | Clicking takes the user to the Greenhouse section | Pass |
+| Recipes | Clicking takes the user to the Recipes section | Pass |
 | **Other features** |
-| Form submission | Clicking takes user to Welcome page  | Pass |
+| Form submission | Clicking takes the user to the Welcome page  | Pass |
 | Play recipe video | Clicking on video starts it | Pass |
 
 
 ### Browser
-Website has been tested on Google chrome, Microsoft Edge, Safari and Samsung Internet Browser.
+Website has been tested on Google Chrome, Microsoft Edge, Safari, and Samsung Internet Browser.
 
 | Feature tested \  On browser | Google Chrome | Microsoft Edge | Safari | Samsung Internet  |
 | --- | --- | --- | --- | --- |
@@ -129,7 +129,7 @@ Website has been tested on Google chrome, Microsoft Edge, Safari and Samsung Int
 | Play recipe video | Pass | Pass | --- | --- |
 
 ### Devices
-Manually tested on mobile device (Xiaomi 12), tablet (Samsung Galaxy tab S4) laptop and desktop computer.
+Manually tested on mobile device (Xiaomi 12), tablet (Samsung Galaxy tab S4) laptop, and desktop computer.
 
 | Devices | Expected outcome / responsive | Achived |
 | --- | --- | --- | 
@@ -138,8 +138,8 @@ Manually tested on mobile device (Xiaomi 12), tablet (Samsung Galaxy tab S4) lap
 | Laptop (1366x768px) | Looks as intended on medium size screen | Yes |
 | Desktop (1920x1080px) | Looks as intended on big size screen | Yes |
 
-Desktop also tested with Chrome developer tools from 280 px wide screen up to 1920 px.
-Several media queries was created to make each feature responsive on different screen sizes. All testing was made on up to date browsers. 
+The desktop computer also tested with Chrome developer tools from 280 px wide screen up to 1920 px.
+Several media queries were created to make each feature responsive on different screen sizes. All testing was made on up-to-date browsers. 
 
 
 
@@ -147,12 +147,12 @@ Several media queries was created to make each feature responsive on different s
 
 ### Solved bugs
 
-- Form submittion not working on deployed website, returned error code 405.
+- Form submission not working on the deployed website, returned error code 405.
 <br> Solution: Changed form method from POST to GET.
-- Main content section colums "flexing apart" when increasing screen width.
+- Main content section columns "flexing apart" when increasing screen width.
 <br> Solution: Increase max-width of columns combined with decrease max-width of flex container.
-- About page did not look as intended on tablet in hoizontal layout. But not visible on chrome developer tools.
-<br>Solution: Forced input fields to be smaller on 450px screen and then back to auto width on 768px screen.
+- The about page did not look as intended on a tablet in a horizontal layout. But not visible on Chrome developer tools.
+<br>Solution: Forced input fields to be smaller on 450px screen and then back to auto width on 1200px screen.
 
 
 
@@ -160,7 +160,7 @@ Several media queries was created to make each feature responsive on different s
 
 ### Unfixed bugs
 
-- HTML validation error from from invisible javascript above meta tag charset="UTF-8".
-More info after research and contact with tutor support: My computer adds javascript to the source code of the deployed website. This is not shown for other people.
-Temporart solution: Validate from written code instead of source code.
+- HTML validation error from from invisible JavaScript above meta tag charset="UTF-8".
+More info after research and contact with tutor support: My computer adds JavaScript to the source code of the deployed website. This is not shown for other people.
+Temporary solution: Validate from written code instead of source code.
 
