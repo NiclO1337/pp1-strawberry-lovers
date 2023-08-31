@@ -192,10 +192,23 @@ https://mycolor.space/gradient?ori=to+right+top&hex=%23E60800&hex2=%23FFB7B7&sub
 
 main {
   background-image: linear-gradient(
-    to bottom,    #ffb7b7,    #ffb7b7,    #ffb7b7,    #ffa7a7,
-    #ff9d9a,    #ff837c,    #fc675c,    #f5493b,    #e2372b,
-    #ce221c,    #bb000b,    #9b000e,    #7c000d,    #5e0109,
-    #420200);
+    to bottom,
+    #ffb7b7,
+    #ffb7b7,
+    #ffb7b7,
+    #ffa7a7,
+    #ff9d9a,
+    #ff837c,
+    #fc675c,
+    #f5493b,
+    #e2372b,
+    #ce221c,
+    #bb000b,
+    #9b000e,
+    #7c000d,
+    #5e0109,
+    #420200
+  );
   flex: 1 0 auto; /* makes sure footer is pushed down */
 }
 
@@ -415,10 +428,9 @@ input[type="email"]:focus {
   font-size: 160%;
 }
 
-
 #new-member-background {
-  background: url("../images/welcome-background.webp") 
-  no-repeat bottom center / cover;
+  background: url("../images/welcome-background.webp") no-repeat bottom center /
+    cover;
   height: 75vh;
   width: 100%;
   margin: 0;
@@ -439,13 +451,11 @@ input[type="email"]:focus {
   text-align: center;
 }
 
-.welcome-section-style p {  
+.welcome-section-style p {
   padding-bottom: 0.4rem;
-  padding-top: 0;  
+  padding-top: 0;
   font-size: 110%;
 }
-
-
 
 /* Footer styles */
 footer {
@@ -518,7 +528,7 @@ footer {
   #fav-seeds,
   #f-name,
   #l-name,
-  #email  {
+  #email {
     width: 10.5rem;
   }
 }
@@ -632,7 +642,7 @@ footer {
   #fav-seeds,
   #f-name,
   #l-name,
-  #email  {
+  #email {
     width: auto;
   }
 
@@ -643,8 +653,6 @@ footer {
   .welcome-section-style p {
     font-size: 130%;
   }
-  
-
 }
 
 /* Media query: 992px and up (Laptops) */
@@ -780,7 +788,6 @@ footer {
 
   .welcome-section-style p {
     font-size: 150%;
-    
   }
 }
 
