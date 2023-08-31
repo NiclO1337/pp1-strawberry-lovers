@@ -649,7 +649,6 @@ footer {
 }
 
 /* Media query: 992px and up (Laptops) */
-
 @media screen and (min-width: 992px) {
   /* Header */
   #welcome-image {
@@ -709,6 +708,7 @@ footer {
   .form-flex-child {
     flex: 0 1 30rem;
   }
+}
 
 
 /* Media query: 1200px and up (Desktop) */
