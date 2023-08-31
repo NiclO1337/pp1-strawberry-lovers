@@ -272,7 +272,7 @@ Link to live website: [PP1 Strawberry Lovers](https://niclo1337.github.io/pp1-st
 ## Credits
 
 ### Content
-
+Text content on main page copied from [Blomsterlandet](https://www.blomsterlandet.se/tips-rad/tradgard/barbuskar/jordgubbar-odla-sjalv/) and translated with [Google translate](https://translate.google.se/?hl=sv).
 
 
 ### Media
