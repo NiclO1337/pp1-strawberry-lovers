@@ -129,9 +129,15 @@ Website has been tested on Google chrome, Microsoft Edge and Safari.
 ### Devices
 Manually tested on mobile device (Xiaomi 12), tablet (Samsung Galaxy tab S4) laptop and desktop computer.
 
-| Devices | 
-| --- | --- | --- | --- |
-Mobile phone 
+| Devices | Expected outcome / responsive | Achived |
+| --- | --- | --- | 
+| Mobile (Xiaomi 12) | Looks as intended on this small screen size | Yes |
+| Tablet (Galaxy tab S4) | Looks as intended on this screen size | Yes |
+| Laptop (1366x768px) | Looks as intended on medium size screen | Yes |
+| Desktop (1920x1080px) | Looks as intended on big size screen | Yes |
+
+Desktop also tested with Chrome developer tools from 280 px wide screen up to 1920 px.
+Several media queries was created to make each feature responsive on different screen sizes. All testing was made on up to date browsers. 
 
 
 
