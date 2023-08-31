@@ -33,11 +33,11 @@ Link to live website: [PP1 Strawberry Lovers](https://niclo1337.github.io/pp1-st
 
 - HTML
 Validated through https://validator.w3.org/#validate_by_input and passed
-![Passed without errors](https://res.cloudinary.com/dmntcacug/image/upload/v1693510294/html-validator-pass_lwfaja.jpg)
+<br>![Passed without errors](https://res.cloudinary.com/dmntcacug/image/upload/v1693510294/html-validator-pass_lwfaja.jpg)
 
 - CSS
 Validated through https://jigsaw.w3.org/css-validator/validator and passed
-![Passed without errors](https://res.cloudinary.com/dmntcacug/image/upload/v1693422108/css-validator-pass_xthpbi.jpg)
+<br>![Passed without errors](https://res.cloudinary.com/dmntcacug/image/upload/v1693422108/css-validator-pass_xthpbi.jpg)
 
 ### Lighthouse testing
 
@@ -95,25 +95,28 @@ Different tactics were used to improve the lighthouse scores.
 
 ### Features
 
-| Feature tested | Expected outcome | Pass / fail | 
-| --- | --- | --- |
+| Feature tested | Expected outcome | Testing Performed | Result | Pass / fail | 
+| --- | --- | --- | --- | --- |
 | **Header / navigation bar** | 
-| Logo | Clicking takes the user to the Home page | Pass |
-| Home | Clicking takes the user to the Home page | Pass |
-| Gallery | Clicking takes the user to the Gallery page | Pass  |
-| About us | Clicking takes the user to the About us page | Pass |
+| Logo | Clicking takes the user to the Home page | Clicked logo | Home page reloads | Pass |
+| Home | Clicking takes the user to the Home page | Clicked on button | Home page reloads | Pass |
+| Gallery | Clicking takes the user to the Gallery page | Clicked on button  | Taken to the Gallery page  | Pass  |
+| About us | Clicking takes the user to the About us page | Clicked on button | Taken to the About Us page | Pass |
 | **Footer / Social media icons** | 
-| Facebook | Opens Facebook in new tab | Pass | 
-| Twitter | Opens Twitter in new tab | Pass | 
-| Instagram | Opens Instagram in new tab | Pass | 
-| Youtube | Opens Youtube in new tab | Pass | 
+| Facebook | Opens Facebook in new tab | Clicked on icon | Site opens in a new tab | Pass | 
+| Twitter | Opens Twitter in new tab | Clicked on icon |  Site opens in a new tab |  Pass | 
+| Instagram | Opens Instagram in new tab | Clicked on icon | Site opens in a new tab | Pass | 
+| Youtube | Opens Youtube in new tab | Clicked on icon |  Site opens in a new tab |  Pass | 
 | **Internal links on main page** |
-| Growing | Clicking takes the user to the Growing section | Pass |
-| Greenhouse | Clicking takes the user to the Greenhouse section | Pass |
-| Recipes | Clicking takes the user to the Recipes section | Pass |
+| Growing | Clicking takes the user to the Growing section | Clicked on button | Directs to correct section of page | Pass |
+| Greenhouse | Clicking takes the user to the Greenhouse section | Clicked on button | Directs to correct section of page | Pass |
+| Recipes | Clicking takes the user to the Recipes section | Clicked on button | Directs to correct section of page | Pass |
 | **Other features** |
-| Form submission | Clicking takes the user to the Welcome page  | Pass |
-| Play recipe video | Clicking on video starts it | Pass |
+| Form submission | Clicking takes the user to the Welcome page  | Click on join button | Form submits | Pass |
+| Form reset | Clicking resets the form entries | Click on reset button | Form resets | Pass |
+| Play recipe video | Clicking on video starts it | Click on video | Video starts playing | Pass |
+| Hover buttons | Show hover effect on mouse-over | Mouse over buttons | Hover effect is displayed | pass |
+| Hover social media icons | Show hover effect on mouse-over | Mouse over icons | Hover effect is displayed | pass |
 
 
 ### Browser
@@ -121,12 +124,12 @@ Website has been tested on Google Chrome, Microsoft Edge, Safari, and Samsung In
 
 | Feature tested \  On browser | Google Chrome | Microsoft Edge | Safari | Samsung Internet  |
 | --- | --- | --- | --- | --- |
-| Click navigation links | Pass | Pass | --- | --- |
-| Click social media icons |  Pass | Pass | --- | --- |
-| Internal links on main page | Pass | Pass | --- | --- |
+| Click navigation links | Pass | Pass | Pass |Pass |
+| Click social media icons |  Pass | Pass | Pass | Pass |
+| Internal links on main page | Pass | Pass | Pass | Pass |
 | **Other features** |
-| Form submission | Pass | Pass | --- | --- |
-| Play recipe video | Pass | Pass | --- | --- |
+| Form submission | Pass | Pass | Pass | Pass |
+| Play recipe video | Pass | Pass | Pass | Pass |
 
 ### Devices
 Manually tested on mobile device (Xiaomi 12), tablet (Samsung Galaxy tab S4) laptop, and desktop computer.
