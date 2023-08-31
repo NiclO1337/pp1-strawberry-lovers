@@ -32,6 +32,8 @@ Link to live website: [PP1 Strawberry Lovers](https://niclo1337.github.io/pp1-st
 ### Validator Testing
 
 - HTML
+Validated through https://validator.w3.org/#validate_by_input and passed
+![Passed without errors](https://res.cloudinary.com/dmntcacug/image/upload/v1693510294/html-validator-pass_lwfaja.jpg)
 
 - CSS
 Validated through https://jigsaw.w3.org/css-validator/validator and passed
@@ -159,6 +161,6 @@ Several media queries was created to make each feature responsive on different s
 ### Unfixed bugs
 
 - HTML validation error from from invisible javascript above meta tag charset="UTF-8".
-More info after research: My computer adds javascript to the source code of the deployed website. This is not shown for other people.
+More info after research and contact with tutor support: My computer adds javascript to the source code of the deployed website. This is not shown for other people.
 Temporart solution: Validate from written code instead of source code.
 
