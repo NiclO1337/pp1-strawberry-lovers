@@ -15,6 +15,8 @@ Link to live website: [PP1 Strawberry Lovers](https://niclo1337.github.io/pp1-st
         * [Validator testing](#validator-testing)
         * [Lighthouse testing](#lighthouse-testing)
     * [Manual testing](#manual-testing)
+        * [User goals](#user-goals)
+        * [Features](#features)
         * [Browser](#browser)
         * [Devices](#devices)
     * [Bugs](#bugs)
@@ -74,6 +76,16 @@ Different tactics were used to improve the lighthouse scores.
 
 ### Manual testing
 <hr>
+
+### User goals
+
+| User goal | How are they achived | 
+| --- | --- | 
+| Learn how to grow strawberries | Add content to main page about growing strawberries| 
+| Learn new tips and tricks | Add more tips and tricks to main content|
+| Find new and exiting recipes to try | Add recipe section to main page |
+| Make new friends from all around the world | Add feature with option to join the community  | 
+
 
 ### Features
 
