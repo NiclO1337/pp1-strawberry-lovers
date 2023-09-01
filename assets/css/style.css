@@ -119,7 +119,7 @@ header a {
   margin-bottom: 0;
 }
 
-.hidden-text {
+.hidden-logo {
   display: none;
 }
 
@@ -516,7 +516,7 @@ footer {
     font-size: 100%;
   }
 
-  .hidden-text {
+  .hidden-logo {
     display: block;
   }
 
