@@ -267,4 +267,4 @@ Photo by Efrem  Efre : [link to image](https://www.pexels.com/photo/strawberries
 - Re-watched this video to make sticky positioning work:
 [The Forgotten CSS Position](https://www.youtube.com/watch?v=NzjU1GmKosQ)
 
-- Code .visually-hidden from my discord friend Laura, she is a professional front end developer. My solution of .hidden-heading {display: none;} hides the heading from screen readers too and this professional solution does not. Also my name of class was limited in its uses.
+- Code .visually-hidden from my discord friend Laura, she is a professional front end developer. My solution of .hidden-heading {display: none;} hides the heading from screen readers too and this professional solution does not. Hidden-heading class was used on sections which needed headings for accessibility reasons, so hiding it from screen readers made no sense. Also my name of class was descriptive in its current use but limited in re-using.
