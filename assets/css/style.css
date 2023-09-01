@@ -334,6 +334,25 @@ iframe {
   border: none;
 }
 
+.recipe-section-style {
+  margin-top: 1rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  background-color: #ffeaeace;
+  border-radius: 1rem;
+  color: #890400;
+  padding: 0.8rem 1rem;
+  text-align: center;
+  max-width: 32rem;
+}
+
+.recipe-flex-container {
+  display: flex;
+  gap: 2rem;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
 /* Gallery page */
 #photos img {
   width: 100%;
